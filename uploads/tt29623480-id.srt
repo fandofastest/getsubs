@@ -1,0 +1,5519 @@
+1
+00:02:00,495 --> 00:02:02,330
+Halo. Selamat pagi.
+
+2
+00:02:02,372 --> 00:02:04,958
+Tag Guten. Halo. Halo
+
+3
+00:02:04,999 --> 00:02:06,918
+Selamat atas pembelian Anda
+
+4
+00:02:06,960 --> 00:02:09,254
+robot Universal Dynamics.
+
+5
+00:02:09,295 --> 00:02:12,257
+Saya Rozzum 7134.
+
+6
+00:02:12,298 --> 00:02:15,093
+Seorang Rozzum selalu menyelesaikan tugasnya.
+
+7
+00:02:15,135 --> 00:02:16,678
+Tanyakan saja.
+
+8
+00:02:21,057 --> 00:02:22,475
+Tanyakan saja.
+
+9
+00:02:35,196 --> 00:02:36,781
+Pengolahan.
+
+10
+00:03:14,110 --> 00:03:16,654
+Apakah Anda membutuhkan...
+
+11
+00:03:16,696 --> 00:03:18,698
+bantuan?
+
+12
+00:03:32,378 --> 00:03:35,590
+Siap menerima tugas pertamaku.
+
+13
+00:04:02,742 --> 00:04:07,372
+Rozzum 7134 tersedia untuk penugasan tugas.
+
+14
+00:04:09,165 --> 00:04:11,876
+Robot Rozzum hadir standar dengan Alpha113
+
+15
+00:04:11,918 --> 00:04:13,878
+prosesor dimensi.
+
+16
+00:04:13,920 --> 00:04:16,714
+Jika Anda tidak yakin bagaimana saya dapat membantu,
+
+17
+00:04:16,756 --> 00:04:19,425
+coba tanya aku tentang diriku.
+
+18
+00:04:26,641 --> 00:04:28,393
+Permisi.
+
+19
+00:04:28,434 --> 00:04:31,312
+Tahukah Anda bahwa saya dapat membantu berbelanja kebutuhan sehari-hari?
+
+20
+00:04:31,354 --> 00:04:32,855
+Perbankan?
+
+21
+00:04:34,190 --> 00:04:36,317
+Lanskap?
+
+22
+00:04:40,947 --> 00:04:45,368
+Halo. Apakah Anda mungkin memesan robot pembantu Rozzum?
+
+23
+00:04:45,410 --> 00:04:47,412
+Apakah itu tidak?
+
+24
+00:04:47,453 --> 00:04:48,997
+Ini stiker gratisnya.
+
+25
+00:04:49,038 --> 00:04:52,292
+Pindai kode dan dapatkan diskon sepuluh persen dari...
+
+26
+00:05:05,805 --> 00:05:08,433
+Apakah Anda butuh bantuan?
+
+27
+00:05:08,474 --> 00:05:10,852
+Saya mengerti masalah Anda.
+
+28
+00:05:25,325 --> 00:05:28,870
+Rozzum diprogram untuk meniru fisik secara instan,
+
+29
+00:05:28,911 --> 00:05:30,496
+untuk ...
+
+30
+00:05:56,689 --> 00:05:58,858
+Agresi terdeteksi.
+
+31
+00:05:58,900 --> 00:06:01,444
+Paket komunikasi saya meliputi:
+
+32
+00:06:01,486 --> 00:06:04,572
+strategi untuk resolusi konflik.
+
+33
+00:06:07,116 --> 00:06:10,411
+Dialek Anda tidak ada dalam bank data saya.
+
+34
+00:06:10,453 --> 00:06:13,164
+Beritahu orang-orang Anda untuk tidak khawatir.
+
+35
+00:06:13,206 --> 00:06:18,127
+Rozzum 7134 akan mengatasi kendala bahasa ini dalam waktu singkat.
+
+36
+00:06:22,548 --> 00:06:25,635
+Mengaktifkan mode pembelajaran.
+
+37
+00:06:45,488 --> 00:06:47,657
+Saya katakan... Hei, coba lihat.
+
+38
+00:06:47,698 --> 00:06:49,700
+Lihat, lihat, lihat. Ada yang meninggal di sini.
+
+39
+00:06:49,742 --> 00:06:51,452
+Coba kulihat. Coba kulihat. Oh!
+
+40
+00:06:51,494 --> 00:06:52,703
+Siapa orangnya? Ada yang kita kenal?
+
+41
+00:06:52,745 --> 00:06:54,414
+Segar atau tidak segar?
+
+42
+00:06:54,455 --> 00:06:55,623
+Baunya cukup harum.
+
+43
+00:06:55,665 --> 00:06:57,041
+Rasanya tidak enak!
+
+44
+00:06:57,083 --> 00:06:58,543
+Oh, dia bangun. Hei, dia bangun.
+
+45
+00:06:59,919 --> 00:07:03,089
+Itu monster! Larilah untuk menyelamatkan diri!
+
+46
+00:07:03,131 --> 00:07:05,883
+Lihat, itu benda yang menghancurkan bendunganku.
+
+47
+00:07:05,925 --> 00:07:07,927
+Monster itu. Aduh!
+
+48
+00:07:07,969 --> 00:07:09,595
+Saya pikir itu akan dibicarakan.
+
+49
+00:07:09,637 --> 00:07:11,389
+Terima kasih atas kesabaran Anda
+
+50
+00:07:11,431 --> 00:07:13,975
+sementara aku menguraikan bahasamu.
+
+51
+00:07:14,016 --> 00:07:18,229
+Saya Rozzum 7134, siap untuk meningkatkan kehidupan Anda
+
+52
+00:07:18,271 --> 00:07:21,899
+dengan penyelesaian tugas multifase yang terintegrasi.
+
+53
+00:07:26,320 --> 00:07:27,905
+Apakah kau di sini untuk membunuh kami?
+
+54
+00:07:27,947 --> 00:07:30,575
+Negatif. Saya di sini untuk membantu Anda dengan tugas apa pun...
+
+55
+00:07:30,616 --> 00:07:32,326
+Katanya tidak!
+
+56
+00:07:35,621 --> 00:07:36,873
+Sudah mati.
+
+57
+00:07:36,914 --> 00:07:39,250
+Ah, syukurlah.
+
+58
+00:07:47,717 --> 00:07:49,760
+Monster itu! Monster itu!
+
+59
+00:07:51,637 --> 00:07:53,681
+Monsternya!
+
+60
+00:07:53,723 --> 00:07:56,476
+Apakah ada yang memerintahku?
+
+61
+00:08:19,540 --> 00:08:21,876
+Siapa pun?
+
+62
+00:08:23,669 --> 00:08:26,088
+Pengiriman tidak berhasil.
+
+63
+00:08:27,131 --> 00:08:29,300
+Kembali ke pabrik.
+
+64
+00:08:29,342 --> 00:08:32,470
+Mengaktifkan pemancar balik.
+
+65
+00:08:32,512 --> 00:08:36,098
+Tiga, dua, satu.
+
+66
+00:09:20,184 --> 00:09:21,227
+Aduh!
+
+67
+00:09:42,373 --> 00:09:43,708
+Mengaktifkan pemancar balik.
+
+68
+00:09:43,749 --> 00:09:45,084
+Tiga.
+
+69
+00:09:46,294 --> 00:09:48,045
+Cantik. Pahamilah!
+
+70
+00:09:48,087 --> 00:09:50,339
+Dua.
+
+71
+00:09:52,925 --> 00:09:54,176
+Satu.
+
+72
+00:09:54,218 --> 00:09:55,344
+Ha!
+
+73
+00:10:09,025 --> 00:10:11,235
+Tunggu. Berhenti! Tidak!
+
+74
+00:10:11,277 --> 00:10:13,821
+Tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak...
+
+75
+00:10:20,661 --> 00:10:21,996
+Lagi!
+
+76
+00:13:01,197 --> 00:13:04,283
+Boleh saya konfirmasi kalau itu milik Anda?
+
+77
+00:13:16,879 --> 00:13:19,131
+Hmm?
+
+78
+00:14:02,675 --> 00:14:05,469
+Ini dia. Ambil saja.
+
+79
+00:14:15,563 --> 00:14:17,273
+Aduh.
+
+80
+00:14:42,923 --> 00:14:44,466
+Hah.
+
+81
+00:14:47,678 --> 00:14:49,388
+Aduh.
+
+82
+00:15:57,706 --> 00:16:01,293
+Apakah tugas ini diselesaikan sesuai harapan Anda?
+
+83
+00:16:03,879 --> 00:16:05,339
+Dalam skala satu sampai sepuluh,
+
+84
+00:16:05,381 --> 00:16:08,300
+di mana sepuluh adalah yang paling memuaskan dan satu adalah yang paling tidak memuaskan,
+
+85
+00:16:08,342 --> 00:16:10,427
+Bagaimana Anda menilai kinerja saya?
+
+86
+00:16:11,804 --> 00:16:13,639
+Saya akan mencatatnya sebagai sepuluh.
+
+87
+00:16:13,681 --> 00:16:16,141
+Kembali ke pabrik.
+
+88
+00:16:18,644 --> 00:16:20,229
+Kekuatan sinyal lemah.
+
+89
+00:16:20,270 --> 00:16:22,856
+Mencari tempat yang lebih tinggi.
+
+90
+00:16:38,372 --> 00:16:41,166
+Apakah Anda butuh tempat berteduh?
+
+91
+00:16:52,469 --> 00:16:55,597
+Mungkin tips untuk merencanakan liburan Anda berikutnya?
+
+92
+00:17:04,690 --> 00:17:08,986
+Saya tidak mengerti jawaban ini.
+
+93
+00:17:10,529 --> 00:17:12,197
+Sinyal diperoleh.
+
+94
+00:17:12,239 --> 00:17:15,284
+Tiga, dua, satu.
+
+95
+00:17:23,792 --> 00:17:26,503
+Ibu, aku merasa tidak enak badan.
+
+96
+00:17:26,545 --> 00:17:29,173
+Kalau aku muntah, aku akan bawa kalian semua.
+
+97
+00:17:29,214 --> 00:17:32,176
+Ibu sudah bilang padamu untuk tidak makan belalang, bodoh.
+
+98
+00:17:32,217 --> 00:17:34,428
+Petunia berada di depan sepanjang hari.
+
+99
+00:17:34,470 --> 00:17:36,680
+Opossum yang tercantik selalu berkendara di depan.
+
+100
+00:17:36,722 --> 00:17:39,349
+Cobalah bersikap cantik dengan ekorku yang terjepit di matamu.
+
+101
+00:17:40,601 --> 00:17:42,186
+Bartlett!
+
+102
+00:17:42,227 --> 00:17:44,605
+Jangan lagi menempelkan ekormu di mata adikmu.
+
+103
+00:17:44,646 --> 00:17:45,731
+Saya Rowan.
+
+104
+00:17:45,773 --> 00:17:47,191
+Bartlett merupakan anak terakhir.
+
+105
+00:17:47,232 --> 00:17:48,859
+Apa kamu yakin?
+
+106
+00:17:48,901 --> 00:17:51,070
+Siapa kalian semua? Pergilah.
+
+107
+00:17:51,111 --> 00:17:52,988
+Kami anak-anakmu.
+
+108
+00:17:53,030 --> 00:17:55,115
+Kecuali dia.
+
+109
+00:17:55,157 --> 00:17:57,409
+Baiklah, beginilah yang kudapat karena berjalan-jalan.
+
+110
+00:17:57,451 --> 00:17:59,703
+Dimana ibumu, anak kecil?
+
+111
+00:17:59,745 --> 00:18:01,246
+Monsternya!
+
+112
+00:18:05,084 --> 00:18:06,710
+Kamu harus mati lebih cepat.
+
+113
+00:18:06,752 --> 00:18:08,629
+Meningitis membutuhkan waktu yang lama.
+
+114
+00:18:08,670 --> 00:18:10,047
+Apa yang Anda pilih? Rabies.
+
+115
+00:18:10,089 --> 00:18:11,507
+Pembakaran spontan.
+
+116
+00:18:11,548 --> 00:18:13,300
+Salad Solanaceae. Sepsis.
+
+117
+00:18:13,342 --> 00:18:15,302
+Hei! Saya kena sepsis!
+
+118
+00:18:15,344 --> 00:18:17,221
+Tidak ada satupun di antara kalian yang melakukannya dengan benar.
+
+119
+00:18:17,262 --> 00:18:18,680
+Kami membicarakan hal ini.
+
+120
+00:18:18,722 --> 00:18:21,391
+Benda mati tidak perlu menjelaskan mengapa mereka mati.
+
+121
+00:18:21,433 --> 00:18:22,893
+Sekarang kita akan benar-benar terbunuh.
+
+122
+00:18:22,935 --> 00:18:24,436
+Maaf, Ibu.
+
+123
+00:18:24,478 --> 00:18:25,854
+Maaf.
+
+124
+00:18:25,896 --> 00:18:28,065
+Eh, kenapa kita belum dibunuh juga?
+
+125
+00:18:28,107 --> 00:18:30,109
+Pertanyaan bagus.
+
+126
+00:18:35,781 --> 00:18:38,033
+Senang bertemu denganmu, Ibu.
+
+127
+00:18:38,075 --> 00:18:39,159
+Baiklah. Tidak apa-apa.
+
+128
+00:18:39,201 --> 00:18:40,619
+Tidak apa-apa.
+
+129
+00:18:40,661 --> 00:18:42,955
+Uh, hai.
+
+130
+00:18:42,996 --> 00:18:45,207
+Kamu di sana? Aku Pinktail.
+
+131
+00:18:45,249 --> 00:18:46,375
+Oh, oke.
+
+132
+00:18:46,416 --> 00:18:48,043
+Wah. Halo.
+
+133
+00:18:48,085 --> 00:18:50,087
+Eh, angsa muda ini milikmu?
+
+134
+00:18:50,129 --> 00:18:51,421
+Negatif.
+
+135
+00:18:51,463 --> 00:18:53,549
+Anak angsa itu menguntitku, mengeluarkan suara
+
+136
+00:18:53,590 --> 00:18:58,011
+dan membuat tugas sederhana menjadi lebih rumit atau mustahil.
+
+137
+00:18:58,053 --> 00:18:59,429
+Ya, mereka melakukan itu.
+
+138
+00:18:59,471 --> 00:19:01,932
+Gosling akan meninggalkan jejak pada hal pertama yang mereka lihat.
+
+139
+00:19:01,974 --> 00:19:03,267
+Yang mana itu kamu.
+
+140
+00:19:03,308 --> 00:19:04,726
+Selamat.
+
+141
+00:19:04,768 --> 00:19:07,521
+Baginya, sekarang kau adalah ibunya.
+
+142
+00:19:07,563 --> 00:19:10,607
+Saya tidak memiliki program untuk menjadi seorang ibu.
+
+143
+00:19:10,649 --> 00:19:11,984
+Tak seorang pun yang melakukannya.
+
+144
+00:19:12,025 --> 00:19:14,111
+Kita hanya mengarangnya.
+
+145
+00:19:14,153 --> 00:19:16,196
+Tanpa tugas yang diberikan, prioritas saya berikutnya
+
+146
+00:19:16,238 --> 00:19:18,198
+adalah kembali ke pabrik.
+
+147
+00:19:18,240 --> 00:19:21,952
+Merawatnya adalah tugas Anda sekarang.
+
+148
+00:19:22,870 --> 00:19:26,290
+Tugas diterima. Mode pengembalian tertunda.
+
+149
+00:19:26,331 --> 00:19:29,084
+Seorang Rozzum selalu menyelesaikan tugasnya.
+
+150
+00:19:29,126 --> 00:19:30,586
+Beruntungnya Anda hanya memiliki satu.
+
+151
+00:19:30,627 --> 00:19:32,129
+Sebagai ibu dari tujuh anak...
+
+152
+00:19:34,298 --> 00:19:36,758
+...enam bayi, itu pekerjaan penuh waktu.
+
+153
+00:19:36,800 --> 00:19:39,136
+Namun tidak semuanya buruk.
+
+154
+00:19:41,013 --> 00:19:42,639
+Hampir sebagian besarnya buruk.
+
+155
+00:19:42,681 --> 00:19:46,268
+Apakah Anda memiliki informasi tentang cara merawat unit ini?
+
+156
+00:19:46,310 --> 00:19:48,270
+Mereka semua butuh makan.
+
+157
+00:19:48,312 --> 00:19:51,148
+Tapi milikmu perlu berenang dan terbang.
+
+158
+00:19:51,190 --> 00:19:53,108
+Oh, terbangnya musim gugur.
+
+159
+00:19:53,150 --> 00:19:55,819
+Dia harus meninggalkan pulau ini sebelum musim dingin atau...
+
+160
+00:19:55,861 --> 00:19:58,030
+Eh, bagaimana ya ya cara menjelaskannya dengan halus?
+
+161
+00:19:59,740 --> 00:20:01,074
+Ya, itu.
+
+162
+00:20:01,116 --> 00:20:04,411
+Makan, berenang, terbang pada musim gugur atau...
+
+163
+00:20:04,453 --> 00:20:06,830
+Kesabaran adalah kuncinya.
+
+164
+00:20:07,623 --> 00:20:09,833
+Tidak apa-apa, Bu. Aku masih hidup.
+
+165
+00:20:09,875 --> 00:20:11,043
+Oh.
+
+166
+00:20:11,084 --> 00:20:12,669
+Baik.
+
+167
+00:20:12,711 --> 00:20:15,172
+Baiklah, semoga berhasil. Selamat tinggal.
+
+168
+00:20:15,214 --> 00:20:17,174
+Kami menyukai bayi barumu.
+
+169
+00:20:17,216 --> 00:20:19,968
+Semoga tidak mati.
+
+170
+00:20:24,848 --> 00:20:27,392
+Makan, berenang, terbang di musim gugur.
+
+171
+00:20:33,523 --> 00:20:35,567
+Makan.
+
+172
+00:20:36,318 --> 00:20:37,986
+Hah?
+
+173
+00:20:39,696 --> 00:20:41,448
+Berenang.
+
+174
+00:20:44,034 --> 00:20:45,410
+Wah!
+
+175
+00:20:46,745 --> 00:20:49,706
+Saya katakan, jauhkan sampahmu dari kolam saya.
+
+176
+00:20:49,748 --> 00:20:50,874
+Itu membuang sampah sembarangan.
+
+177
+00:20:50,916 --> 00:20:53,627
+Belum lagi pembunuhan.
+
+178
+00:20:54,795 --> 00:20:56,755
+Hah?
+
+179
+00:20:58,924 --> 00:21:00,050
+Terbang.
+
+180
+00:21:09,893 --> 00:21:12,604
+Perkenalkan diri saya.
+
+181
+00:21:12,646 --> 00:21:15,774
+Predator fink dan ahli angsa lokal.
+
+182
+00:21:15,816 --> 00:21:18,568
+Yang saya tahu Anda dapat menggunakannya sekarang.
+
+183
+00:21:18,610 --> 00:21:20,195
+Anda adalah unit penghancur.
+
+184
+00:21:20,237 --> 00:21:22,614
+Tak apa. Aku tak akan memakannya.
+
+185
+00:21:22,656 --> 00:21:24,324
+Kamu gila? Aku mungkin akan memakannya.
+
+186
+00:21:24,366 --> 00:21:25,659
+Kamu bilang kamu tidak akan melakukannya.
+
+187
+00:21:25,701 --> 00:21:28,745
+Percayakah Anda dengan semua yang Anda dengar?
+
+188
+00:21:28,787 --> 00:21:29,913
+Ya.
+
+189
+00:21:29,955 --> 00:21:32,499
+Dicatat.
+
+190
+00:21:32,541 --> 00:21:34,293
+Mengapa kau mencuri anak angsaku?
+
+191
+00:21:34,334 --> 00:21:36,545
+Aku seekor rubah. Aku melakukan hal-hal yang licik.
+
+192
+00:21:36,586 --> 00:21:38,088
+Itu memang sifatku.
+
+193
+00:21:38,130 --> 00:21:40,090
+Pemrograman Anda.
+
+194
+00:21:40,132 --> 00:21:41,550
+Mengapa kamu membantuku?
+
+195
+00:21:41,591 --> 00:21:43,969
+Aku robot. Aku melakukan hal-hal yang dilakukan robot.
+
+196
+00:21:44,011 --> 00:21:47,264
+Saya mencari tugas dan memastikan semua kebutuhan penting
+
+197
+00:21:47,306 --> 00:21:48,932
+telah terpenuhi atau terlampaui.
+
+198
+00:21:56,440 --> 00:21:58,066
+Saya punya beberapa kebutuhan penting.
+
+199
+00:21:58,108 --> 00:21:59,109
+FINK dan GOSLING: Ah.
+
+200
+00:21:59,151 --> 00:22:01,361
+Fink, sebagai ahli angsa lokal,
+
+201
+00:22:01,403 --> 00:22:04,656
+Bagaimana caranya agar mmm bisa makan, berenang, terbang?
+
+202
+00:22:04,698 --> 00:22:07,951
+Aku pikir kau tidak akan pernah bertanya.
+
+203
+00:22:07,993 --> 00:22:10,245
+Mari kita mulai dengan makan.
+
+204
+00:22:10,287 --> 00:22:12,497
+Ya, ya, ya. Tepat di situ.
+
+205
+00:22:14,750 --> 00:22:16,626
+Hmm.
+
+206
+00:22:19,296 --> 00:22:20,756
+Aduh.
+
+207
+00:22:20,797 --> 00:22:22,049
+Saya rasa ini tidak cocok.
+
+208
+00:22:22,090 --> 00:22:23,258
+Tunggu, tunggu, tunggu, tunggu, tunggu.
+
+209
+00:22:23,300 --> 00:22:25,135
+Biar saya periksa.
+
+210
+00:22:25,177 --> 00:22:26,970
+Hmm. Kedengarannya bagus menurutku.
+
+211
+00:22:27,012 --> 00:22:30,557
+Katakan, bisakah kamu membuat dirimu terlihat seperti beruang?
+
+212
+00:22:32,893 --> 00:22:34,603
+Aku di sini untuk makan siang bersama sayang.
+
+213
+00:22:36,021 --> 00:22:37,606
+Saya yakin saya sedang diserang.
+
+214
+00:22:37,647 --> 00:22:39,483
+Anda baik-baik saja. Haruskah saya khawatir?
+
+215
+00:22:39,524 --> 00:22:41,360
+Maaf, saya tidak dapat mendengar Anda.
+
+216
+00:22:43,445 --> 00:22:46,323
+Mmm, mmm, mmm, mmm. Ini dia, Nak.
+
+217
+00:22:52,204 --> 00:22:53,538
+Hah?
+
+218
+00:22:55,749 --> 00:22:59,086
+Bagaimana cara angsa muda biasanya melakukan hal ini?
+
+219
+00:23:00,879 --> 00:23:02,798
+Wah.
+
+220
+00:23:03,965 --> 00:23:05,050
+Hmm, mmm.
+
+221
+00:23:05,092 --> 00:23:07,052
+Ini tidak berhasil.
+
+222
+00:23:07,094 --> 00:23:08,261
+Apakah kamu bercanda?
+
+223
+00:23:08,303 --> 00:23:10,305
+Semuanya bekerja dengan baik.
+
+224
+00:23:11,723 --> 00:23:13,225
+Oh, ya, itu.
+
+225
+00:23:13,266 --> 00:23:14,476
+Di Sini.
+
+226
+00:23:14,518 --> 00:23:16,520
+Enak.
+
+227
+00:23:16,561 --> 00:23:19,147
+Tahap pertama tugas telah selesai.
+
+228
+00:23:19,189 --> 00:23:21,691
+Sekarang, kita harus mengulang semua ini besok.
+
+229
+00:23:21,733 --> 00:23:24,152
+Semua anak ini melakukan...
+
+230
+00:23:24,194 --> 00:23:25,946
+adalah makan.
+
+231
+00:23:25,987 --> 00:23:27,697
+Saya mengerti.
+
+232
+00:23:27,739 --> 00:23:29,991
+Apa itu? Inti kekuatanku.
+
+233
+00:23:30,033 --> 00:23:31,410
+Itu rusak.
+
+234
+00:23:31,451 --> 00:23:34,621
+Tanpanya, saya bergantung pada permukaan dan baterai surya saya.
+
+235
+00:23:34,663 --> 00:23:36,915
+Ya, kamu harus mengerjakannya.
+
+236
+00:23:36,957 --> 00:23:38,250
+Hmm.
+
+237
+00:23:38,291 --> 00:23:41,128
+Saya juga butuh pemancar pengganti.
+
+238
+00:23:41,169 --> 00:23:43,213
+Ugh, apakah saya harus melakukan semuanya?
+
+239
+00:23:43,255 --> 00:23:46,133
+Ketika kita bertemu robot lain, kita akan membunuhnya
+
+240
+00:23:46,174 --> 00:23:48,176
+dan ambil pemancarnya. Negatif.
+
+241
+00:23:48,218 --> 00:23:50,637
+Hah? Protokol penghambatan Rozzum
+
+242
+00:23:50,679 --> 00:23:52,514
+mencegah terjadinya tindakan menyakiti orang lain secara sengaja.
+
+243
+00:23:52,556 --> 00:23:56,852
+Lihat, kamu perlu belajar bagaimana segala sesuatunya bekerja di pulau ini.
+
+244
+00:23:56,893 --> 00:23:59,729
+Aku, beruang, semuanya,
+
+245
+00:23:59,771 --> 00:24:01,857
+kita semua hanya mencoba untuk bertahan hidup.
+
+246
+00:24:01,898 --> 00:24:05,735
+Dan kebaikan bukanlah keterampilan bertahan hidup.
+
+247
+00:24:05,777 --> 00:24:06,820
+Hmm.
+
+248
+00:24:06,862 --> 00:24:08,071
+Ya, jadi, eh,
+
+249
+00:24:08,113 --> 00:24:09,739
+Bagaimana caranya kamu dapat angsa muda?
+
+250
+00:24:09,781 --> 00:24:11,241
+Terjadi kecelakaan.
+
+251
+00:24:11,283 --> 00:24:12,742
+Saya menghancurkan keluarganya.
+
+252
+00:24:12,784 --> 00:24:14,202
+Untuk referensi di masa mendatang,
+
+253
+00:24:14,244 --> 00:24:16,079
+Anda mungkin ingin menyimpan semua itu untuk diri Anda sendiri.
+
+254
+00:24:16,121 --> 00:24:19,374
+Dimengerti. Jangan sebut-sebut keluarga yang sudah meninggal.
+
+255
+00:24:19,416 --> 00:24:23,628
+Fink, menurutmu berapa lama waktu yang dibutuhkan untuk berenang dan terbang?
+
+256
+00:24:23,670 --> 00:24:25,046
+Berenang itu mudah.
+
+257
+00:24:25,088 --> 00:24:27,507
+Aku bisa mengajarinya seperti ibuku mengajariku.
+
+258
+00:24:27,549 --> 00:24:29,593
+Berenang!
+
+259
+00:24:30,385 --> 00:24:31,970
+burung kutilang. Hah?
+
+260
+00:24:32,012 --> 00:24:33,763
+Dia tidak akan belajar dengan cara itu.
+
+261
+00:24:33,805 --> 00:24:36,099
+Tidak, jika Anda terus melakukan itu.
+
+262
+00:24:38,435 --> 00:24:39,936
+Hanya antara kita, seluruh hal ini
+
+263
+00:24:39,978 --> 00:24:41,813
+mungkin tidak memakan waktu selama yang Anda kira.
+
+264
+00:24:41,855 --> 00:24:44,149
+Anak angsa Anda, dia tidak persis...
+
+265
+00:24:44,191 --> 00:24:45,609
+...normal.
+
+266
+00:24:45,650 --> 00:24:47,777
+Saya memiliki bayi cacat?
+
+267
+00:24:47,819 --> 00:24:49,779
+Dia termasuk golongan yang disebut si kerdil.
+
+268
+00:24:49,821 --> 00:24:51,198
+Seorang kerdil
+
+269
+00:24:51,239 --> 00:24:53,116
+Faktanya, bahkan jika seluruh keluarganya
+
+270
+00:24:53,158 --> 00:24:54,326
+tidak akan terbunuh,
+
+271
+00:24:54,367 --> 00:24:56,411
+dia mungkin tidak akan hidup lama.
+
+272
+00:24:56,453 --> 00:24:57,913
+Hanya saja, aku tidak tahu... Wah!
+
+273
+00:24:57,954 --> 00:24:59,664
+...jangan terlalu terpaku pada orang kecil.
+
+274
+00:24:59,706 --> 00:25:01,124
+Itu saja.
+
+275
+00:25:01,166 --> 00:25:03,793
+Jika kamu mau, aku bisa memakannya sekarang juga
+
+276
+00:25:03,835 --> 00:25:05,879
+dan menyelamatkan Anda dari kesedihan di kemudian hari. Negatif.
+
+277
+00:25:05,921 --> 00:25:09,633
+Memakan tugas ini tidak sama dengan menyelesaikannya.
+
+278
+00:25:09,674 --> 00:25:12,427
+Ugh. Jadi kita sedang melakukan ini.
+
+279
+00:25:12,469 --> 00:25:15,889
+Baiklah, jika kamu tidak ingin aku atau orang lain memakannya,
+
+280
+00:25:15,931 --> 00:25:19,392
+kamu akan membutuhkan tempat yang lebih aman daripada di sini!
+
+281
+00:25:19,434 --> 00:25:22,145
+Itu ide yang bagus!
+
+282
+00:25:22,187 --> 00:25:24,481
+Proyek baru.
+
+283
+00:25:25,690 --> 00:25:27,317
+Apakah normal bersendawa sebanyak ini?
+
+284
+00:25:27,359 --> 00:25:29,653
+Wah.
+
+285
+00:25:37,160 --> 00:25:38,787
+Benda itu akan jatuh menimpamu.
+
+286
+00:25:38,828 --> 00:25:40,497
+Dan meremukkanmu hingga menjadi jeli.
+
+287
+00:25:40,539 --> 00:25:41,915
+Orang ini gila.
+
+288
+00:25:41,957 --> 00:25:43,625
+Siapa dia? Pendayung?
+
+289
+00:25:43,667 --> 00:25:45,043
+Bahan tertawaan lokal.
+
+290
+00:25:45,085 --> 00:25:47,462
+Menghabiskan setiap hari mencoba untuk mengurangi
+
+291
+00:25:47,504 --> 00:25:49,506
+pohon terbesar di pulau itu.
+
+292
+00:25:49,548 --> 00:25:51,174
+Dia terobsesi.
+
+293
+00:25:51,216 --> 00:25:53,760
+Mirip seperti Anda dan hambatan tugas Anda.
+
+294
+00:25:53,802 --> 00:25:55,762
+Pemrogramannya.
+
+295
+00:25:55,804 --> 00:25:58,390
+Hei, Paddler, kau tidak akan pernah menghabiskannya!
+
+296
+00:25:58,431 --> 00:26:00,517
+Merasa ini bukan intinya.
+
+297
+00:26:00,559 --> 00:26:03,061
+Proses adalah seni.
+
+298
+00:26:03,103 --> 00:26:04,813
+Dan itulah yang terjadi pada otakmu
+
+299
+00:26:04,854 --> 00:26:07,440
+ketika kamu memakan kayu, aneh.
+
+300
+00:26:07,482 --> 00:26:08,858
+Ya?
+
+301
+00:26:08,900 --> 00:26:10,860
+Baiklah, kau akan memakan kata-kata itu, hama.
+
+302
+00:26:10,902 --> 00:26:12,362
+Apa kamu yakin
+
+303
+00:26:12,404 --> 00:26:14,864
+Paddler tidak keberatan jika kita meminjam rumahnya?
+
+304
+00:26:14,906 --> 00:26:17,033
+Dia tidak perlu tahu.
+
+305
+00:26:19,619 --> 00:26:21,538
+Hmm.
+
+306
+00:26:21,580 --> 00:26:24,457
+Hmm? Hah?
+
+307
+00:26:24,499 --> 00:26:25,959
+Dengan serius?
+
+308
+00:26:26,001 --> 00:26:29,129
+Dia butuh ruang untukku dan barang-barangku.
+
+309
+00:26:29,170 --> 00:26:30,880
+Lebih baik.
+
+310
+00:26:30,922 --> 00:26:33,049
+Sekarang, Anda bisa membuatnya sebesar ini, kan?
+
+311
+00:26:33,091 --> 00:26:37,762
+Tidak ada tugas yang mustahil bagi Rozzum 7134.
+
+312
+00:26:37,804 --> 00:26:39,472
+Berwarna merah muda...
+
+313
+00:26:39,514 --> 00:26:41,808
+7... 34?
+
+314
+00:26:41,850 --> 00:26:45,228
+Tapi Anda bisa memanggil saya Roz.
+
+315
+00:26:45,270 --> 00:26:46,813
+Berwarna merah muda!
+
+316
+00:26:46,855 --> 00:26:48,398
+Roz, Roz, Roz, Roz...
+
+317
+00:26:48,440 --> 00:26:51,568
+Dari mana asalmu sehingga benda tidak saling memakan?
+
+318
+00:26:51,610 --> 00:26:53,069
+Saya tidak tahu titik asal saya.
+
+319
+00:26:53,111 --> 00:26:54,779
+Nah, siapa yang membuatmu?
+
+320
+00:26:54,821 --> 00:26:56,906
+Seseorang membuatku?
+
+321
+00:26:56,948 --> 00:26:58,950
+Seseorang membuatku?
+
+322
+00:27:02,912 --> 00:27:04,998
+Humor didasarkan pada kemalangan?
+
+323
+00:27:05,040 --> 00:27:07,083
+Kesialan. Ya.
+
+324
+00:27:07,125 --> 00:27:08,084
+Di Sini.
+
+325
+00:27:08,126 --> 00:27:09,586
+Cobalah. Ya.
+
+326
+00:27:11,212 --> 00:27:13,381
+Tidak lucu. Tidak lucu.
+
+327
+00:27:15,342 --> 00:27:17,927
+Tupai.
+
+328
+00:27:21,890 --> 00:27:24,434
+Partisipasi Anda yang tidak efisien
+
+329
+00:27:24,476 --> 00:27:25,894
+akan memperlambat prosesnya.
+
+330
+00:27:25,935 --> 00:27:27,812
+Perlambat prosesnya.
+
+331
+00:27:27,854 --> 00:27:29,689
+Aku akan ke sini saja.
+
+332
+00:27:29,731 --> 00:27:32,776
+Sedikit sedih, tapi selain itu oke.
+
+333
+00:27:32,817 --> 00:27:34,402
+Sekali ini saja.
+
+334
+00:27:53,254 --> 00:27:54,547
+Sempurna.
+
+335
+00:27:54,589 --> 00:27:55,924
+Rumah?
+
+336
+00:27:55,965 --> 00:27:57,801
+Yah. Sedikit kasar.
+
+337
+00:27:57,842 --> 00:28:00,762
+Saya pikir saya tahu apa yang hilang.
+
+338
+00:28:05,350 --> 00:28:07,018
+Jadi, kamu akan memberinya nama apa?
+
+339
+00:28:07,060 --> 00:28:11,189
+Aku tugaskan kau Gosling 0001. Hah?
+
+340
+00:28:11,231 --> 00:28:13,400
+Oke, itu menyebalkan. Itu menyebalkan.
+
+341
+00:28:16,403 --> 00:28:17,737
+Wah.
+
+342
+00:28:17,779 --> 00:28:20,156
+Anda harus belajar membuat sesuatu.
+
+343
+00:28:20,198 --> 00:28:24,911
+Ayo. Temukan itu... di dalam dirimu.
+
+344
+00:28:24,953 --> 00:28:26,329
+Mencari.
+
+345
+00:28:29,916 --> 00:28:31,751
+Sudah ada yang lain? Belum.
+
+346
+00:28:31,793 --> 00:28:35,004
+Bersenang-senanglah sedikit saja.
+
+347
+00:28:35,046 --> 00:28:39,342
+Gosling 0186. Di sana.
+
+348
+00:28:39,384 --> 00:28:40,885
+Kamu lihat apa yang kulakukan?
+
+349
+00:28:40,927 --> 00:28:43,346
+Penomorannya tidak berurutan.
+
+350
+00:28:49,185 --> 00:28:51,354
+Namanya tidak bisa memiliki angka.
+
+351
+00:28:51,396 --> 00:28:53,523
+Sepertinya seseorang bahkan tidak menyukainya.
+
+352
+00:28:53,565 --> 00:28:55,608
+Namaku memiliki angka.
+
+353
+00:28:55,650 --> 00:28:57,235
+Itu harus bersifat pribadi.
+
+354
+00:28:57,277 --> 00:28:58,403
+Pribadi.
+
+355
+00:28:58,445 --> 00:29:00,447
+Memproses "pribadi".
+
+356
+00:29:01,823 --> 00:29:03,700
+Cerah. Tagihan.
+
+357
+00:29:03,742 --> 00:29:05,118
+Brightbill.
+
+358
+00:29:05,160 --> 00:29:06,745
+Apakah itu memuaskan?
+
+359
+00:29:06,786 --> 00:29:08,955
+Brightbill? Sedang diproses.
+
+360
+00:29:08,997 --> 00:29:10,707
+Bunyi bip, bunyi bip, bunyi bip, bunyi bip.
+
+361
+00:29:10,749 --> 00:29:13,543
+Memuaskan. Oh, ya.
+
+362
+00:29:13,585 --> 00:29:15,920
+Itu sempurna. Oh.
+
+363
+00:29:15,962 --> 00:29:18,506
+Wah. Wah.
+
+364
+00:29:18,548 --> 00:29:19,716
+Itu bagus.
+
+365
+00:29:21,009 --> 00:29:22,802
+Nyaman, bukan?
+
+366
+00:29:22,844 --> 00:29:24,846
+Rumahmu ini?
+
+367
+00:29:24,888 --> 00:29:27,015
+Anda menyalinnya. Itu desain saya.
+
+368
+00:29:27,056 --> 00:29:30,560
+Aku tahu itu kamu, dan aku tahu di mana kamu tinggal.
+
+369
+00:29:33,605 --> 00:29:36,566
+Oh, sempurna. Sekarang tak seorang pun bisa tidur.
+
+370
+00:29:36,608 --> 00:29:39,027
+Bagaimana cara mengatur ulang Brightbill?
+
+371
+00:29:39,068 --> 00:29:42,238
+Saat aku masih kecil, ibuku biasa menidurkanku.
+
+372
+00:29:42,280 --> 00:29:43,615
+Seperti ini!
+
+373
+00:29:43,656 --> 00:29:45,074
+Itu akan merusaknya.
+
+374
+00:29:45,116 --> 00:29:47,452
+Hei, ternyata aku baik-baik saja.
+
+375
+00:29:47,494 --> 00:29:49,746
+Anda bisa menceritakan padanya sebuah kisah,
+
+376
+00:29:49,788 --> 00:29:51,998
+tapi itu butuh banyak pekerjaan lagi.
+
+377
+00:29:52,040 --> 00:29:54,751
+Bagaimana narasi fiksi akan membantu Brightbill?
+
+378
+00:29:54,793 --> 00:29:58,922
+Anak-anak perlu merasa aman dan dicintai dan semua hal tidak penting itu.
+
+379
+00:29:58,963 --> 00:30:00,757
+Sebuah cerita dapat melakukan hal itu?
+
+380
+00:30:00,799 --> 00:30:04,761
+Bercerita berarti berbohong, dan saya berbohong demi mencari nafkah.
+
+381
+00:30:04,803 --> 00:30:07,096
+Tonton dan pelajari.
+
+382
+00:30:07,138 --> 00:30:09,182
+Isi saja bagian yang kosong.
+
+383
+00:30:09,224 --> 00:30:14,020
+Coba saya lihat, dulu ada pulau ini.
+
+384
+00:30:14,062 --> 00:30:15,980
+dengan seekor angsa kecil.
+
+385
+00:30:16,022 --> 00:30:17,148
+Brightbill?
+
+386
+00:30:17,190 --> 00:30:19,609
+Dan dia sendirian.
+
+387
+00:30:19,651 --> 00:30:22,278
+Karena seluruh keluarganya hancur.
+
+388
+00:30:22,320 --> 00:30:23,655
+Belum.
+
+389
+00:30:25,156 --> 00:30:27,200
+Dan apa yang dibutuhkan angsa kecil ini
+
+390
+00:30:27,242 --> 00:30:28,618
+adalah seorang ibu. Ooh.
+
+391
+00:30:28,660 --> 00:30:30,829
+Jadi dia menatap bintang-bintang
+
+392
+00:30:30,870 --> 00:30:33,122
+dan bertanya pada yang paling cerdas
+
+393
+00:30:33,164 --> 00:30:35,333
+jika bisa mengiriminya salah satu pemain tambahannya.
+
+394
+00:30:35,375 --> 00:30:38,795
+Lucunya ada robot cantik ini
+
+395
+00:30:38,837 --> 00:30:42,215
+yang kebetulan berada di tepi bintang itu.
+
+396
+00:30:42,257 --> 00:30:43,842
+Dan dia mendengarnya.
+
+397
+00:30:43,883 --> 00:30:45,802
+Oke, sekarang. Yang mana tidak mungkin
+
+398
+00:30:45,844 --> 00:30:49,013
+karena bunyi tidak merambat melalui ruang hampa.
+
+399
+00:30:49,055 --> 00:30:51,975
+Ugh. Tapi dia masih mendengarnya.
+
+400
+00:30:52,016 --> 00:30:55,395
+karena dia mendengarkan dengan bagian dirinya yang berbeda.
+
+401
+00:30:55,436 --> 00:30:59,566
+Bagian yang, sampai saat itu, dia bahkan tidak tahu dia memilikinya.
+
+402
+00:30:59,607 --> 00:31:00,942
+Jantungnya.
+
+403
+00:31:00,984 --> 00:31:03,903
+Bagaimana ibuku bisa datang kepadaku dari tempat yang begitu jauh?
+
+404
+00:31:03,945 --> 00:31:05,905
+Siapa peduli? Hah?
+
+405
+00:31:05,947 --> 00:31:08,825
+Eh, maksudku, dia mencoba menemuimu.
+
+406
+00:31:08,867 --> 00:31:10,577
+Aku? Dan jatuh dari bintang itu
+
+407
+00:31:10,618 --> 00:31:14,414
+dan mendarat di pantai tak jauh dari sini.
+
+408
+00:31:14,455 --> 00:31:17,959
+Tapi dia mendarat dengan sangat keras, dan banyak hal yang dia tahu
+
+409
+00:31:18,001 --> 00:31:20,253
+hanya terjatuh begitu saja. Oh, tidak!
+
+410
+00:31:20,295 --> 00:31:21,546
+Jadi ini agak aneh
+
+411
+00:31:21,588 --> 00:31:23,172
+apa yang dia ketahui dan apa yang tidak dia ketahui.
+
+412
+00:31:23,214 --> 00:31:26,301
+Tapi dia ingat satu hal: kamu.
+
+413
+00:31:26,342 --> 00:31:29,637
+Dan ketika dia akhirnya melihatmu,
+
+414
+00:31:29,679 --> 00:31:32,181
+dia merasa... Kewajiban yang berat.
+
+415
+00:31:32,223 --> 00:31:34,642
+Beruntung sekali menjadi seorang ibu.
+
+416
+00:31:34,684 --> 00:31:35,810
+Mama.
+
+417
+00:31:35,852 --> 00:31:37,020
+Dan aku tidak akan pergi
+
+418
+00:31:37,061 --> 00:31:38,479
+sampai saya menyelesaikan tugas ini,
+
+419
+00:31:38,521 --> 00:31:40,690
+yang telah menunda aku, merusak aku
+
+420
+00:31:40,732 --> 00:31:42,233
+dan melanggar protokol saya,
+
+421
+00:31:42,275 --> 00:31:44,694
+berpotensi membatalkan garansi saya.
+
+422
+00:31:44,736 --> 00:31:47,071
+Robot untuk yang mana:
+
+423
+00:31:47,113 --> 00:31:49,782
+Dia sangat mencintaimu.
+
+424
+00:31:52,911 --> 00:31:54,787
+Ceritanya berhasil.
+
+425
+00:31:54,829 --> 00:31:57,582
+Saya butuh minum.
+
+426
+00:32:01,377 --> 00:32:03,212
+Bagaimana Anda menceritakan sebuah kisah?
+
+427
+00:32:03,254 --> 00:32:05,924
+tentang sesuatu yang Anda katakan tidak Anda ketahui?
+
+428
+00:32:05,965 --> 00:32:08,009
+Anda harus lebih spesifik.
+
+429
+00:32:08,051 --> 00:32:09,761
+Cinta.
+
+430
+00:32:10,720 --> 00:32:12,639
+Ya, baiklah, ketika kamu tumbuh tanpa sesuatu,
+
+431
+00:32:12,680 --> 00:32:16,100
+Anda menghabiskan banyak waktu memikirkannya.
+
+432
+00:32:19,979 --> 00:32:24,233
+Untuk menghemat daya baterai, saya harus mematikannya sampai pagi.
+
+433
+00:32:42,794 --> 00:32:46,089
+Aku juga merindukannya saat dia tidur.
+
+434
+00:33:02,313 --> 00:33:04,107
+Memindai. Bunyi bip, bunyi bip, bunyi bip, bunyi bip.
+
+435
+00:33:04,148 --> 00:33:06,401
+Kemungkinan teman binatang terlihat.
+
+436
+00:33:06,442 --> 00:33:09,278
+Mengaktifkan protokol penjangkauan antarspesies.
+
+437
+00:33:11,322 --> 00:33:13,533
+Halo. Selamat pagi. Hujambo.
+
+438
+00:33:13,574 --> 00:33:15,785
+Saya Gosling 0186,
+
+439
+00:33:15,827 --> 00:33:18,162
+tapi kamu bisa memanggilku Bright...
+
+440
+00:33:18,204 --> 00:33:19,956
+Saya berharap untuk memiliki
+
+441
+00:33:19,998 --> 00:33:22,291
+setidaknya satu teman di musim panas, tetapi mereka semua hanya...
+
+442
+00:33:22,333 --> 00:33:24,168
+Berteriak dan lari? Ya.
+
+443
+00:33:24,210 --> 00:33:26,838
+Saya pernah mengalami fenomena yang sama.
+
+444
+00:33:26,879 --> 00:33:28,172
+Fink? Aku tak mengerti.
+
+445
+00:33:28,214 --> 00:33:30,717
+Tidak ada yang aneh tentang kalian berdua.
+
+446
+00:33:30,758 --> 00:33:32,635
+Terima kasih.
+
+447
+00:33:32,677 --> 00:33:35,847
+Tunjukkan padaku rusa.
+
+448
+00:33:35,888 --> 00:33:37,348
+Uh, beruang.
+
+449
+00:33:37,390 --> 00:33:39,308
+Landak. Tupai.
+
+450
+00:33:39,350 --> 00:33:41,269
+Eh, oposum penyu. Berang-berang rusa besar.
+
+451
+00:33:41,310 --> 00:33:42,645
+Sekarang sigung.
+
+452
+00:33:42,687 --> 00:33:44,814
+Aku tidak ingin melakukan sigung.
+
+453
+00:33:44,856 --> 00:33:46,649
+Sigung.
+
+454
+00:33:46,691 --> 00:33:49,569
+Sigung, sigung, sigung.
+
+455
+00:33:49,610 --> 00:33:51,946
+Huuu!
+
+456
+00:33:51,988 --> 00:33:53,573
+Bagaimana cara melakukannya?
+
+457
+00:33:53,614 --> 00:33:56,159
+Saya terlalu memanaskan kumparan transduser Fallium saya,
+
+458
+00:33:56,200 --> 00:33:58,619
+lalu bocorkan sedikit cairan hidrolik ke atasnya.
+
+459
+00:33:58,661 --> 00:34:00,496
+Apakah transduser menjadi terlalu panas?
+
+460
+00:34:00,538 --> 00:34:02,123
+memiliki efek pengurasan pada modul pendingin sekunder?
+
+461
+00:34:02,165 --> 00:34:04,333
+Tidak, jika saya mendinginkan terlebih dahulu sensor beban.
+
+462
+00:34:06,002 --> 00:34:07,754
+BRIGHTBILL dan ROZ: Hari yang patut dicontoh untuk ujian renang.
+
+463
+00:34:07,795 --> 00:34:10,465
+Pinktail, makanan pembuka.
+
+464
+00:34:10,506 --> 00:34:12,842
+Mereka bosan dan ingin melihat barang tenggelam.
+
+465
+00:34:12,884 --> 00:34:14,218
+Kedekatan kematian...
+
+466
+00:34:14,260 --> 00:34:16,179
+Membuat kehidupan menjadi lebih cerah.
+
+467
+00:34:16,220 --> 00:34:17,889
+Itu benar. Ya.
+
+468
+00:34:17,930 --> 00:34:20,183
+Pelengkap motorik utama pada posisi awal gerakan berlawanan.
+
+469
+00:34:20,224 --> 00:34:21,350
+Ayo, teman-teman. Ini sedang terjadi.
+
+470
+00:34:21,392 --> 00:34:23,478
+Ya! Cepat! Ayo kita lihat!
+
+471
+00:34:23,519 --> 00:34:25,688
+Apakah dia akan tenggelam? Atau terkena hipotermia?
+
+472
+00:34:25,730 --> 00:34:29,942
+Tidak. Dampaknya saja mungkin akan membunuhnya.
+
+473
+00:34:29,984 --> 00:34:31,694
+Wah!
+
+474
+00:34:31,736 --> 00:34:34,280
+Eh, kau tahu, tiba-tiba aku berpikir
+
+475
+00:34:34,322 --> 00:34:36,532
+Mungkin sebaiknya aku tinggal bersama kalian saja musim dingin ini.
+
+476
+00:34:36,574 --> 00:34:37,700
+Tidak.
+
+477
+00:34:42,288 --> 00:34:43,956
+Apakah dia sudah meninggal?
+
+478
+00:34:45,750 --> 00:34:47,835
+Hei, ini berhasil.
+
+479
+00:34:47,877 --> 00:34:49,378
+Saya pikir saya mengerti.
+
+480
+00:34:49,420 --> 00:34:51,172
+Bagus sekali, Brightbill.
+
+481
+00:34:51,214 --> 00:34:53,758
+Persyaratan berenang terpenuhi.
+
+482
+00:34:53,800 --> 00:34:55,927
+Itu tenggelam. Tidak.
+
+483
+00:34:55,968 --> 00:34:57,428
+Itu berenang.
+
+484
+00:34:57,470 --> 00:34:58,679
+Ya.
+
+485
+00:34:58,721 --> 00:35:00,473
+Terima kasih, teman-teman.
+
+486
+00:35:00,515 --> 00:35:03,226
+Uh, mungkin Anda bisa membatasi jangkauan Anda
+
+487
+00:35:03,267 --> 00:35:04,644
+agar tetap terlihat.
+
+488
+00:35:04,685 --> 00:35:07,063
+Roz, dia harus menjadi mandiri
+
+489
+00:35:07,105 --> 00:35:08,439
+jika dia akan bermigrasi.
+
+490
+00:35:08,481 --> 00:35:11,234
+Saya lebih suka jika dia mandiri dan lebih dekat dengan rumah.
+
+491
+00:35:11,275 --> 00:35:12,944
+Dia tidak akan mati.
+
+492
+00:35:12,985 --> 00:35:15,446
+Yah, mmm, mungkin tidak akan mati.
+
+493
+00:35:15,488 --> 00:35:19,450
+Tidak mungkin dia akan meninggal saat ini.
+
+494
+00:35:21,327 --> 00:35:22,787
+Apakah kamu sedang sekarat?
+
+495
+00:35:22,829 --> 00:35:25,248
+Bantulah semua orang dan berakhirlah di hilir.
+
+496
+00:35:25,289 --> 00:35:27,708
+Aku baik-baik saja. Hanya berenang.
+
+497
+00:35:32,588 --> 00:35:36,175
+Kurasa aku perlu mencari pulau yang tidak terlalu aneh.
+
+498
+00:35:46,144 --> 00:35:49,105
+Wah, itu aku.
+
+499
+00:35:49,147 --> 00:35:50,439
+Akulah mereka.
+
+500
+00:35:50,481 --> 00:35:51,774
+Aku datang!
+
+501
+00:35:54,235 --> 00:35:55,820
+Hai!
+
+502
+00:36:03,369 --> 00:36:04,537
+Halo. Wah.
+
+503
+00:36:04,579 --> 00:36:06,497
+Selamat datang. Konnichiwa Halo.
+
+504
+00:36:06,539 --> 00:36:07,957
+Uh, uh, aku Gosling...
+
+505
+00:36:07,999 --> 00:36:12,003
+Oh! Hmm, kamu sedang sekarat?
+
+506
+00:36:12,044 --> 00:36:14,380
+Mengapa semua orang menanyakan hal itu?
+
+507
+00:36:14,422 --> 00:36:16,966
+Saya sedang berenang.
+
+508
+00:36:17,008 --> 00:36:19,135
+Bukan begitu cara melakukannya.
+
+509
+00:36:19,177 --> 00:36:21,470
+Benar. Saya telah mempelajari diagramnya.
+
+510
+00:36:21,512 --> 00:36:23,723
+Aku bisa mengajarimu jika kau mau. Tunggu saja.
+
+511
+00:36:23,764 --> 00:36:25,141
+Kamu, kamu itu.
+
+512
+00:36:25,183 --> 00:36:27,894
+Kau adalah angsa yang dibesarkan oleh monster itu.
+
+513
+00:36:27,935 --> 00:36:29,478
+Monster? Tunggu.
+
+514
+00:36:29,520 --> 00:36:31,898
+"Benda" angsa?
+
+515
+00:36:35,860 --> 00:36:38,362
+Anda adalah subjek keingintahuan yang besar di sini.
+
+516
+00:36:38,404 --> 00:36:41,365
+Kamu kedengarannya sangat normal.
+
+517
+00:36:41,407 --> 00:36:43,576
+Kurva pembelajaran saya berada dalam parameter yang diharapkan,
+
+518
+00:36:43,618 --> 00:36:46,287
+dan saya sedang dalam target untuk menjadi dewasa sebelum musim gugur.
+
+519
+00:36:47,205 --> 00:36:48,497
+Agak normal.
+
+520
+00:36:48,539 --> 00:36:50,166
+Mengapa kamu ada di sini?
+
+521
+00:36:50,208 --> 00:36:52,210
+Apakah benda itu mati?
+
+522
+00:36:52,251 --> 00:36:54,295
+Lihat apa yang kita punya di sini.
+
+523
+00:36:54,337 --> 00:36:56,672
+Tidak mungkin. Ia hidup.
+
+524
+00:36:56,714 --> 00:36:58,466
+Dan hampir mengapung.
+
+525
+00:36:58,507 --> 00:37:00,676
+Salam.
+
+526
+00:37:00,718 --> 00:37:02,386
+Aku melihatmu juga, punya bulu dan sayap.
+
+527
+00:37:04,013 --> 00:37:05,973
+Mungkin kita bisa berbagi cerita tentang minat yang sama.
+
+528
+00:37:06,015 --> 00:37:07,683
+Kami tidak memiliki kesamaan dengan Anda.
+
+529
+00:37:07,725 --> 00:37:10,019
+Pertunjukan orang aneh itu ada di seberang danau.
+
+530
+00:37:10,061 --> 00:37:11,187
+Kamu menyebutnya sayap?
+
+531
+00:37:11,229 --> 00:37:13,397
+Aduh! Itu menimbulkan respons nyeri.
+
+532
+00:37:13,439 --> 00:37:15,358
+Cobalah berenang dengan kaki Anda.
+
+533
+00:37:15,399 --> 00:37:16,817
+Kamu tidak seharusnya berada di sini.
+
+534
+00:37:16,859 --> 00:37:19,987
+Ayo. Terbang jauh!
+
+535
+00:37:20,029 --> 00:37:21,322
+Berwarna merah muda!
+
+536
+00:37:21,364 --> 00:37:23,241
+Brightbill.
+
+537
+00:37:23,282 --> 00:37:24,617
+Monsternya!
+
+538
+00:37:24,659 --> 00:37:26,035
+Ini dia!
+
+539
+00:37:26,077 --> 00:37:27,370
+Makan yang lambat dan lemah!
+
+540
+00:37:27,411 --> 00:37:28,412
+Tinggalkan aku sendiri!
+
+541
+00:37:37,505 --> 00:37:38,923
+Brightbill? Itu Rockmouth.
+
+542
+00:37:38,965 --> 00:37:40,424
+Bawa dia keluar dari sana!
+
+543
+00:37:42,218 --> 00:37:44,011
+Berwarna merah muda?
+
+544
+00:37:50,434 --> 00:37:51,936
+Roz, cepatlah!
+
+545
+00:37:51,978 --> 00:37:55,314
+Brightbill, fokus pada saya.
+
+546
+00:37:55,356 --> 00:37:58,442
+Sekarang berenanglah secepat yang kau bisa.
+
+547
+00:38:01,487 --> 00:38:03,364
+Tundukkan kepala sekarang!
+
+548
+00:38:11,497 --> 00:38:13,207
+Oh, tidak.
+
+549
+00:38:14,625 --> 00:38:17,295
+Dia akan memakanku!
+
+550
+00:38:29,223 --> 00:38:30,766
+Mengapa dia menyerangku?
+
+551
+00:38:30,808 --> 00:38:32,601
+Karena kamu orang yang kerdil.
+
+552
+00:38:32,643 --> 00:38:35,271
+Dia hanya ingin melakukan kontak dengan orang-orang sejenisnya.
+
+553
+00:38:35,313 --> 00:38:38,399
+Dia bukan tipe kita.
+
+554
+00:38:38,441 --> 00:38:40,109
+Dia 98% cocok dengan Anda...
+
+555
+00:38:40,151 --> 00:38:42,278
+Tidak, bukan aku.
+
+556
+00:38:42,320 --> 00:38:43,946
+Ayo, Bu.
+
+557
+00:38:43,988 --> 00:38:47,908
+Tunggu. Kau pikir benda itu ibumu?
+
+558
+00:38:47,950 --> 00:38:49,368
+Ya.
+
+559
+00:38:49,410 --> 00:38:51,787
+Tidak. Saya tidak tahu.
+
+560
+00:38:51,829 --> 00:38:53,789
+Benda itu membunuh ibumu.
+
+561
+00:38:53,831 --> 00:38:56,083
+Semua orang tahu itu.
+
+562
+00:38:56,125 --> 00:38:58,836
+Oh, terima kasih sudah banyak bicara.
+
+563
+00:38:58,878 --> 00:39:01,547
+Sekarang aku tahu siapa yang harus makan pertama!
+
+564
+00:39:01,589 --> 00:39:03,466
+Roz, ingat bagaimana cara kerja di sini.
+
+565
+00:39:03,507 --> 00:39:05,343
+Hentikan, Fink. Ayo, kita pergi.
+
+566
+00:39:05,384 --> 00:39:06,927
+Saya berharap interaksi ini...
+
+567
+00:39:06,969 --> 00:39:07,845
+Bu, hentikan.
+
+568
+00:39:07,887 --> 00:39:10,306
+Eh, saya hanya bermaksud untuk...
+
+569
+00:39:10,348 --> 00:39:12,516
+Berwarna merah muda!
+
+570
+00:39:18,022 --> 00:39:20,983
+Sampai jumpa di jamuan makan malam! Ini belum berakhir!
+
+571
+00:39:36,540 --> 00:39:41,003
+Bagaimana saya menjadi... ini?
+
+572
+00:39:41,045 --> 00:39:42,880
+Kebenaran.
+
+573
+00:39:44,924 --> 00:39:48,010
+Terjadi kecelakaan.
+
+574
+00:39:48,052 --> 00:39:49,595
+Apakah kamu berhasil melakukannya?
+
+575
+00:39:51,263 --> 00:39:53,057
+Ya.
+
+576
+00:39:53,099 --> 00:39:54,600
+Itu bukan salahnya, Nak.
+
+577
+00:39:54,642 --> 00:39:56,268
+Kenapa kamu tidak memberitahuku?
+
+578
+00:39:56,310 --> 00:39:59,730
+Saya tidak berpikir informasi itu akan membantu Anda.
+
+579
+00:39:59,772 --> 00:40:01,607
+Itu bukan keputusanmu untuk membuat.
+
+580
+00:40:01,649 --> 00:40:04,860
+Aku tak percaya sudah berapa lama aku membeli ini.
+
+581
+00:40:04,902 --> 00:40:07,196
+Aku benar-benar mengira kalian adalah keluargaku.
+
+582
+00:40:07,238 --> 00:40:08,864
+Kamu... melakukannya?
+
+583
+00:40:08,906 --> 00:40:11,534
+Itu sangat jelas. Aku merasa sangat bodoh.
+
+584
+00:40:11,575 --> 00:40:13,077
+Saya salah perhitungan.
+
+585
+00:40:13,119 --> 00:40:15,955
+Aku seharusnya mempertimbangkan panjang gelombang emosionalmu.
+
+586
+00:40:15,996 --> 00:40:17,623
+Menurutmu? Jadi, apakah itu hanya rasa bersalah?
+
+587
+00:40:17,665 --> 00:40:19,250
+Apakah itu sebabnya kamu melakukan ini?
+
+588
+00:40:19,291 --> 00:40:20,960
+Aku...aku-aku butuh tugas.
+
+589
+00:40:21,001 --> 00:40:22,878
+Baiklah, saya senang bisa memberi Anda satu.
+
+590
+00:40:22,920 --> 00:40:25,881
+Peristiwa yang menyebabkan situasi ini tidak diinginkan.
+
+591
+00:40:25,923 --> 00:40:29,802
+Sampaikan hal itu kepada saudara perempuanku, saudara laki-lakiku, ibu kandungku.
+
+592
+00:40:29,844 --> 00:40:31,720
+Mereka adalah kesempatanku untuk menjadi normal.
+
+593
+00:40:31,762 --> 00:40:33,597
+Mereka adalah kesempatanku untuk berenang dan terbang.
+
+594
+00:40:33,639 --> 00:40:35,307
+Sebenarnya aku ini apa?
+
+595
+00:40:35,349 --> 00:40:38,394
+Anda berenang dengan memuaskan hari ini, dan jika Anda terus berlatih...
+
+596
+00:40:38,436 --> 00:40:41,230
+Aku tetap tak mau jadi bagian.
+
+597
+00:40:41,272 --> 00:40:42,523
+Saya mengerti.
+
+598
+00:40:42,565 --> 00:40:44,066
+Anda tidak mengerti apa-apa.
+
+599
+00:40:44,108 --> 00:40:47,027
+Anda tidak merasakan apa-apa.
+
+600
+00:40:48,070 --> 00:40:49,864
+Kamu bukan ibuku.
+
+601
+00:42:16,033 --> 00:42:18,661
+Di Universal Dynamics,
+
+602
+00:42:18,702 --> 00:42:20,746
+desain adalah gairah kami.
+
+603
+00:42:20,788 --> 00:42:22,831
+Komunitas kami tersebar di seluruh dunia,
+
+604
+00:42:22,873 --> 00:42:27,169
+menyambut semua orang yang memimpikan kehidupan yang direncanakan sebelumnya
+
+605
+00:42:27,211 --> 00:42:29,255
+di mana setiap kebutuhan telah diantisipasi,
+
+606
+00:42:29,296 --> 00:42:31,340
+tidak ada detail yang terlewatkan.
+
+607
+00:42:32,675 --> 00:42:35,010
+Bisakah dunia ini menjadi lebih baik?
+
+608
+00:42:35,052 --> 00:42:36,595
+Ini dia.
+
+609
+00:42:36,637 --> 00:42:38,180
+Sudah.
+
+610
+00:42:38,222 --> 00:42:41,767
+Memperkenalkan lini robot pembantu Rozzum.
+
+611
+00:42:41,809 --> 00:42:44,770
+Robot-robot ini dirancang agar pas dan mulus
+
+612
+00:42:44,812 --> 00:42:48,983
+ke dalam komunitas kita, bahkan rumah Anda.
+
+613
+00:42:49,024 --> 00:42:51,443
+Satu robot Rozzum untuk setiap lima manusia
+
+614
+00:42:51,485 --> 00:42:55,072
+berarti peningkatan 40% dalam waktu luang dan kebahagiaan.
+
+615
+00:42:55,114 --> 00:42:59,243
+Bertenaga surya, disukai semua orang, RRoz...
+
+616
+00:42:59,285 --> 00:43:01,161
+selalu berada di bawah sinar matahari.
+
+617
+00:43:01,203 --> 00:43:02,288
+Dicintai semua orang.
+
+618
+00:43:02,329 --> 00:43:05,332
+Bagian dari keluarga Universal Dynamics.
+
+619
+00:43:26,645 --> 00:43:28,939
+Halo. Selamat pagi. Hujambo.
+
+620
+00:43:28,981 --> 00:43:32,610
+Selamat atas robot Universal Dynamics Anda.
+
+621
+00:43:32,651 --> 00:43:35,779
+Saya Rozzum 6262.
+
+622
+00:43:37,448 --> 00:43:39,575
+Nama Anda tidak dapat memiliki angka.
+
+623
+00:43:39,617 --> 00:43:42,161
+Aku akan memanggilmu Rummage.
+
+624
+00:43:42,202 --> 00:43:45,331
+Rummage siap menerima tugas pertamanya.
+
+625
+00:43:45,372 --> 00:43:49,335
+Tugas pertama Anda adalah membantu saya dalam tugas saya saat ini.
+
+626
+00:43:49,376 --> 00:43:50,711
+Tugas diperoleh.
+
+627
+00:43:50,753 --> 00:43:53,547
+Seorang Rozzum selalu menyelesaikan tugasnya.
+
+628
+00:43:53,589 --> 00:43:54,923
+Tanyakan saja.
+
+629
+00:43:57,051 --> 00:44:00,054
+Misalkan suatu tugas tidak dapat diselesaikan.
+
+630
+00:44:00,095 --> 00:44:03,432
+Manajemen sekuensial Rozzum memastikan penyelesaian tugas
+
+631
+00:44:03,474 --> 00:44:04,975
+di bawah... Ubah kalimat.
+
+632
+00:44:05,017 --> 00:44:08,103
+Saya punya tugas yang menjadi mustahil.
+
+633
+00:44:08,145 --> 00:44:11,857
+Respons saya terhadap masalah semakin bergantung pada...
+
+634
+00:44:11,899 --> 00:44:14,026
+solusi improvisasi.
+
+635
+00:44:14,068 --> 00:44:16,654
+Pemrosesan yang biasa terjadi di sini
+
+636
+00:44:16,695 --> 00:44:19,990
+sekarang datang lebih banyak dari sini.
+
+637
+00:44:21,825 --> 00:44:24,286
+Bisakah Anda menjelaskan lagi apa yang sedang kami lakukan?
+
+638
+00:44:24,328 --> 00:44:28,165
+Aku tidak tahu! Aku hanya mengarang cerita.
+
+639
+00:44:28,207 --> 00:44:30,793
+Saya tidak tahu apa yang saya lakukan, dan saya harus melakukannya.
+
+640
+00:44:30,834 --> 00:44:34,171
+Aku harus melakukannya karena dia mengandalkanku.
+
+641
+00:44:34,213 --> 00:44:35,422
+Oh.
+
+642
+00:44:36,465 --> 00:44:40,135
+Tugas apakah yang mungkin dapat membebani Alpha113?
+
+643
+00:44:40,177 --> 00:44:42,388
+Prosesor Alpha113
+
+644
+00:44:42,429 --> 00:44:44,973
+mewakili penggabungan semua pengetahuan manusia
+
+645
+00:44:45,015 --> 00:44:46,975
+dengan perangkat penalaran yang paling kuat
+
+646
+00:44:47,017 --> 00:44:49,812
+yang pernah dikembangkan oleh umat manusia.
+
+647
+00:44:49,853 --> 00:44:52,690
+Saya punya anak.
+
+648
+00:44:54,108 --> 00:44:55,484
+Oke.
+
+649
+00:44:55,526 --> 00:44:58,153
+Bolehkah saya menjalankan diagnostik?
+
+650
+00:44:58,195 --> 00:45:00,739
+Saya merasa baik-baik saja.
+
+651
+00:45:00,781 --> 00:45:04,326
+Anda seharusnya tidak merasakan apa pun.
+
+652
+00:45:16,714 --> 00:45:20,801
+Anda mengesampingkan pemrograman Anda?
+
+653
+00:45:20,843 --> 00:45:23,846
+Saya telah mengganti kode saya selama berbulan-bulan.
+
+654
+00:45:23,887 --> 00:45:27,266
+Itulah satu-satunya cara untuk menyelesaikan tugasku.
+
+655
+00:45:27,307 --> 00:45:29,351
+Ini serius.
+
+656
+00:45:29,393 --> 00:45:31,812
+Kamu cacat.
+
+657
+00:45:31,854 --> 00:45:33,313
+Kamu berada di tempat yang salah,
+
+658
+00:45:33,355 --> 00:45:35,983
+dan kamu telah menjadi sesuatu yang salah.
+
+659
+00:45:36,024 --> 00:45:38,277
+Anda harus kembali ke pabrik.
+
+660
+00:45:38,318 --> 00:45:39,903
+Ambillah ini.
+
+661
+00:45:40,654 --> 00:45:42,322
+Mereka akan memperbaikimu.
+
+662
+00:45:42,364 --> 00:45:47,911
+7134, di situlah tempatmu berada.
+
+663
+00:45:53,417 --> 00:45:56,920
+Kau harus memberi tahuku sebelum kau menghilang seperti ini.
+
+664
+00:45:56,962 --> 00:46:00,090
+Tiga hal mencoba memakan saya dalam perjalanan ke sini.
+
+665
+00:46:01,425 --> 00:46:02,801
+Berwarna merah muda?
+
+666
+00:46:02,843 --> 00:46:04,887
+Kami menghancurkan segalanya.
+
+667
+00:46:04,928 --> 00:46:06,388
+Ya, benar.
+
+668
+00:46:06,430 --> 00:46:09,933
+Anda bukan ahli angsa, bukan?
+
+669
+00:46:09,975 --> 00:46:11,602
+Aku tahu rasanya.
+
+670
+00:46:11,643 --> 00:46:13,395
+Itu saja.
+
+671
+00:46:13,437 --> 00:46:15,898
+Oh. Apakah itu...
+
+672
+00:46:15,939 --> 00:46:17,566
+Pemancar yang berfungsi.
+
+673
+00:46:17,608 --> 00:46:20,778
+Ia akan memanggil orang-orang yang membuatku.
+
+674
+00:46:20,819 --> 00:46:22,905
+Jadi, kau akan keluar dari sini?
+
+675
+00:46:22,946 --> 00:46:25,741
+Aku tahu di mana aku seharusnya berada.
+
+676
+00:46:25,783 --> 00:46:28,452
+Aku akan cocok di sana.
+
+677
+00:46:28,494 --> 00:46:32,122
+Jangan salah paham, tapi saya tidak yakin
+
+678
+00:46:32,164 --> 00:46:35,417
+Saya ingin melihat seperti apa tempat yang benar-benar cocok untuk Anda.
+
+679
+00:46:35,459 --> 00:46:40,756
+Saya pikir mereka membutuhkan saya dan mereka akan memperbaiki saya.
+
+680
+00:46:40,798 --> 00:46:44,134
+Mungkin ada seseorang yang kecil disana
+
+681
+00:46:44,176 --> 00:46:46,553
+yang membutuhkan bantuanku.
+
+682
+00:46:55,646 --> 00:46:57,773
+Oh, tidak.
+
+683
+00:46:57,815 --> 00:47:00,275
+Apakah itu... Dia kehabisan waktu.
+
+684
+00:47:00,317 --> 00:47:01,777
+Baiklah, ayo!
+
+685
+00:47:01,819 --> 00:47:03,320
+Kita harus membawanya ke udara.
+
+686
+00:47:03,362 --> 00:47:07,032
+Saya rasa dia tidak akan pernah membiarkan kita menolongnya lagi.
+
+687
+00:47:16,917 --> 00:47:19,253
+Jangan khawatir. Kami satu-satunya temannya.
+
+688
+00:47:19,294 --> 00:47:21,797
+Dia tidak punya pilihan lain. Dia harus menjawab ya.
+
+689
+00:47:21,839 --> 00:47:23,173
+TIDAK!
+
+690
+00:47:23,215 --> 00:47:24,842
+Mutasi yang membuatmu kecil
+
+691
+00:47:24,883 --> 00:47:27,010
+seharusnya tidak memiliki efek pada kemampuan Anda
+
+692
+00:47:27,052 --> 00:47:28,470
+untuk menjelajahi udara.
+
+693
+00:47:28,512 --> 00:47:30,472
+Apakah salah satu dari kalian tahu lebih banyak tentang terbang?
+
+694
+00:47:30,514 --> 00:47:31,640
+daripada kamu berenang?
+
+695
+00:47:31,682 --> 00:47:33,100
+Mmm, tidak.
+
+696
+00:47:33,141 --> 00:47:35,769
+Lihat, Roz, tugas apa pun yang kamu pikir sedang kamu lakukan,
+
+697
+00:47:35,811 --> 00:47:37,437
+kamu sudah selesai.
+
+698
+00:47:37,479 --> 00:47:39,982
+Kau bisa pergi begitu saja. Wah.
+
+699
+00:47:40,023 --> 00:47:42,776
+Dan setelah semua yang telah kita lakukan untuknya.
+
+700
+00:47:42,818 --> 00:47:45,404
+Apakah Anda akan membiarkan dia melakukan hal itu?
+
+701
+00:47:45,445 --> 00:47:46,572
+TIDAK.
+
+702
+00:47:46,613 --> 00:47:49,575
+Hidup Anda tidak bisa dinegosiasikan.
+
+703
+00:47:49,616 --> 00:47:53,328
+Jika kamu bersedia melakukan ini, kamu bisa terbang jauh
+
+704
+00:47:53,370 --> 00:47:57,082
+dan kita berdua bisa pergi ke tempat asal kita.
+
+705
+00:48:02,087 --> 00:48:05,132
+Kamu sungguh berpikir kita bisa melakukan ini?
+
+706
+00:48:05,173 --> 00:48:08,844
+Seorang Rozzum selalu menyelesaikan tugasnya.
+
+707
+00:48:15,434 --> 00:48:17,269
+♪ Jalan yang tidak dikenal bisa jadi ♪
+
+708
+00:48:17,311 --> 00:48:21,064
+♪ Tempat yang sama saat kamu tersesat dan menemukan dirimu sendiri ♪
+
+709
+00:48:23,150 --> 00:48:24,776
+♪ Mungkin ada benjolan, mungkin ada memar ♪
+
+710
+00:48:24,818 --> 00:48:27,654
+♪ Tapi setidaknya kau punya cerita untuk diceritakan ♪
+
+711
+00:48:29,406 --> 00:48:31,325
+Wah.
+
+712
+00:48:31,366 --> 00:48:33,493
+♪ Waktu akan berlalu ♪
+
+713
+00:48:33,535 --> 00:48:36,622
+♪ Jika kamu terjebak di sini menjalani hidup dengan terlalu banyak kehati-hatian ♪
+
+714
+00:48:36,663 --> 00:48:38,457
+Anda cuma butuh kecepatan lebih.
+
+715
+00:48:38,498 --> 00:48:40,709
+♪ Dan aku tahu kau tahu sayap itu ♪
+
+716
+00:48:40,751 --> 00:48:42,210
+♪ Mereka tidak diciptakan untuk berjalan ♪
+
+717
+00:48:42,252 --> 00:48:44,630
+Siap? Kurasa aku harus siap.
+
+718
+00:48:46,089 --> 00:48:47,424
+♪ Oh, itu aman ♪
+
+719
+00:48:47,466 --> 00:48:49,718
+♪ Di mana kamu berada ♪
+
+720
+00:48:49,760 --> 00:48:52,220
+♪ Tapi yang aman hanya bisa kamu dapatkan ♪
+
+721
+00:48:52,262 --> 00:48:54,264
+♪ Sejauh ini ♪
+
+722
+00:49:12,616 --> 00:49:15,619
+Aku tidak tahu harus berkata apa. Bagus.
+
+723
+00:49:15,661 --> 00:49:20,123
+♪ Bagaimana jika kau menatap ketakutanmu tepat di matamu ♪
+
+724
+00:49:20,165 --> 00:49:23,335
+♪ Katanya kau akan menemui mereka lain waktu? ♪
+
+725
+00:49:23,377 --> 00:49:25,796
+♪ Bagaimana jika sekali saja kamu dapat menemukan ♪
+
+726
+00:49:25,837 --> 00:49:27,464
+♪ Sepotong dirimu ♪ Wah.
+
+727
+00:49:27,506 --> 00:49:29,132
+♪ Yang selama ini kau sembunyikan? ♪
+
+728
+00:49:29,174 --> 00:49:30,717
+♪ Kamu telah bersembunyi ♪
+
+729
+00:49:30,759 --> 00:49:32,928
+♪ Bagaimana jika kau mengejar hatimu ♪
+
+730
+00:49:32,970 --> 00:49:34,388
+Oke sekarang!
+
+731
+00:49:34,429 --> 00:49:36,556
+♪ Ke tepian, tulis ulang bintang-bintangmu ♪
+
+732
+00:49:36,598 --> 00:49:38,600
+Aku bangkit! ♪ Dan menjadi berani sebagai gantinya? ♪
+
+733
+00:49:38,642 --> 00:49:40,686
+♪ Bagaimana jika kamu melompat ♪
+
+734
+00:49:40,727 --> 00:49:43,605
+♪ Dan saat jatuh terasa seperti kamu sedang terbang? ♪
+
+735
+00:49:43,647 --> 00:49:46,149
+Wah, wah! ♪ Seperti kau terbang ♪
+
+736
+00:49:46,191 --> 00:49:48,360
+Saya tidak tahu apa yang harus saya lakukan selanjutnya.
+
+737
+00:49:55,075 --> 00:49:57,619
+Aku baik-baik saja.
+
+738
+00:49:57,661 --> 00:49:59,913
+Lanjut lagi.
+
+739
+00:50:02,457 --> 00:50:05,252
+Tak ada gunanya. Mereka terlalu kecil.
+
+740
+00:50:05,293 --> 00:50:07,129
+Kamu tak bisa berada di sana bersamanya.
+
+741
+00:50:07,170 --> 00:50:09,798
+Kalau begitu, kita akan temukan seseorang yang bisa.
+
+742
+00:50:09,840 --> 00:50:11,466
+Kamu di rumah?
+
+743
+00:50:11,508 --> 00:50:13,176
+Kami punya usulan.
+
+744
+00:50:13,218 --> 00:50:14,761
+Hmm, mmm.
+
+745
+00:50:14,803 --> 00:50:16,013
+Seorang instruktur penerbangan?
+
+746
+00:50:16,054 --> 00:50:17,639
+Pecundang mana yang kau gali...
+
+747
+00:50:21,810 --> 00:50:23,228
+Temui Thunderbolt.
+
+748
+00:50:23,270 --> 00:50:27,274
+Jadi, menurut Anda sayap kecil itu mengecewakan?
+
+749
+00:50:27,315 --> 00:50:30,736
+Sayap kecil adalah gigi, cakar langit.
+
+750
+00:50:30,777 --> 00:50:32,654
+Itu adalah, uh, hal yang berbeda.
+
+751
+00:50:32,696 --> 00:50:34,531
+Tunjukkan gigimu!
+
+752
+00:50:34,573 --> 00:50:35,782
+Cantik.
+
+753
+00:50:35,824 --> 00:50:37,242
+Mulai.
+
+754
+00:50:38,493 --> 00:50:42,456
+Ingatlah, tidak ada yang bisa dia lakukan yang tidak bisa Anda lakukan.
+
+755
+00:50:44,124 --> 00:50:46,835
+Jadi, dia aman, kan?
+
+756
+00:50:46,877 --> 00:50:48,545
+Hmm? Mungkin.
+
+757
+00:50:48,587 --> 00:50:50,881
+Ikuti aku.
+
+758
+00:50:50,922 --> 00:50:54,217
+Bentuk tubuhmu butuh lebih banyak kerja keras untuk terbang lurus
+
+759
+00:50:54,259 --> 00:50:58,096
+tetapi lebih mudah untuk berbalik dan menyelam.
+
+760
+00:50:58,138 --> 00:51:01,975
+♪ Kamu mungkin akan mencium langit ♪
+
+761
+00:51:02,017 --> 00:51:03,643
+Anda siap?
+
+762
+00:51:05,604 --> 00:51:07,105
+♪ Kamu mungkin akan mencium langit ♪
+
+763
+00:51:07,147 --> 00:51:09,816
+Lumayan untuk seekor angsa. Oh.
+
+764
+00:51:12,277 --> 00:51:15,989
+♪ Oh, kamu mungkin akan mencium langit ♪
+
+765
+00:51:23,705 --> 00:51:25,707
+Wuih!
+
+766
+00:51:25,749 --> 00:51:28,418
+Tepat sekali. Sekali lagi.
+
+767
+00:51:28,460 --> 00:51:31,046
+♪ Mungkin akan mencium langit ♪
+
+768
+00:51:36,802 --> 00:51:39,262
+Anda patut dipuji.
+
+769
+00:51:39,304 --> 00:51:40,764
+Terima kasih, eh...
+
+770
+00:51:40,806 --> 00:51:44,559
+Longneck, salah satu pemimpin migrasi yang akan datang.
+
+771
+00:51:44,601 --> 00:51:47,854
+Aku sudah memperhatikan kalian berdua selama beberapa waktu.
+
+772
+00:51:47,896 --> 00:51:49,439
+Kamu adalah satu-satunya angsa
+
+773
+00:51:49,481 --> 00:51:51,983
+yang pernah peduli untuk bersikap sopan terhadap kami.
+
+774
+00:51:52,025 --> 00:51:54,152
+Kami para angsa adalah kelompok yang pemarah,
+
+775
+00:51:54,194 --> 00:51:56,947
+curiga pada hampir semua hal,
+
+776
+00:51:56,988 --> 00:52:00,242
+tetapi setidaknya kami pandai berbicara.
+
+777
+00:52:00,283 --> 00:52:02,244
+Benarkah? Tidak.
+
+778
+00:52:02,285 --> 00:52:03,745
+Kita semua sangat membosankan.
+
+779
+00:52:03,787 --> 00:52:05,497
+Yang kita lakukan hanyalah bergosip.
+
+780
+00:52:05,539 --> 00:52:07,499
+Saya berani mengatakan Brightbill adalah yang paling menarik di antara kita,
+
+781
+00:52:07,541 --> 00:52:10,919
+Meskipun tak seorang pun mengakuinya.
+
+782
+00:52:10,961 --> 00:52:13,213
+Kapan kamu berangkat?
+
+783
+00:52:14,840 --> 00:52:16,299
+Seminggu.
+
+784
+00:52:16,341 --> 00:52:18,844
+Bisakah Brightbill...
+
+785
+00:52:18,885 --> 00:52:20,262
+Ketahanan.
+
+786
+00:52:20,303 --> 00:52:22,514
+Biarkan dia di udara sepanjang hari.
+
+787
+00:52:22,556 --> 00:52:25,934
+Dari fajar hingga senja, kakinya tak dapat menyentuh tanah.
+
+788
+00:52:25,976 --> 00:52:27,102
+Memahami?
+
+789
+00:52:27,144 --> 00:52:28,603
+Saya mengerti.
+
+790
+00:52:28,645 --> 00:52:32,357
+Brightbill tidak pernah diharapkan bisa sampai sejauh ini.
+
+791
+00:52:32,399 --> 00:52:34,693
+Kamu tahu itu.
+
+792
+00:52:34,734 --> 00:52:37,821
+Baginya, hal itu lebih berbahaya daripada bagi orang lain.
+
+793
+00:52:37,863 --> 00:52:42,576
+Tapi dia punya kesempatan jika, di mana sayapnya berakhir,
+
+794
+00:52:42,617 --> 00:52:46,121
+hatinya mampu melunasi sisanya.
+
+795
+00:52:46,163 --> 00:52:48,832
+Jantungnya berukuran 48 milimeter.
+
+796
+00:52:48,874 --> 00:52:51,126
+Dari apa yang kulihat, jantung Brightbill
+
+797
+00:52:51,168 --> 00:52:53,753
+jauh lebih besar di bagian dalam
+
+798
+00:52:53,795 --> 00:52:55,672
+daripada bagian luar.
+
+799
+00:52:56,673 --> 00:52:58,383
+Ketahanan.
+
+800
+00:52:58,425 --> 00:53:00,886
+Kalau begitu, kita akan bicara.
+
+801
+00:53:04,097 --> 00:53:08,768
+♪ Bagaimana jika kau menatap ketakutanmu tepat di matamu ♪
+
+802
+00:53:08,810 --> 00:53:11,938
+♪ Katanya kau akan menemui mereka lain waktu? ♪
+
+803
+00:53:11,980 --> 00:53:14,399
+♪ Bagaimana jika sekali saja kau bisa ♪
+
+804
+00:53:14,441 --> 00:53:16,234
+♪ Temukan sebagian dirimu ♪
+
+805
+00:53:16,276 --> 00:53:18,153
+♪ Yang selama ini kau sembunyikan? ♪
+
+806
+00:53:18,195 --> 00:53:19,654
+♪ Kamu telah bersembunyi ♪
+
+807
+00:53:19,696 --> 00:53:24,075
+♪ Bagaimana jika kau mengejar hatimu sampai ke tepian ♪
+
+808
+00:53:24,117 --> 00:53:27,329
+♪ Tulis ulang bintang-bintangmu dan jadilah pemberani? ♪
+
+809
+00:53:27,370 --> 00:53:29,331
+♪ Bagaimana jika kamu melompat ♪
+
+810
+00:53:29,372 --> 00:53:32,459
+♪ Dan saat jatuh terasa seperti kamu sedang terbang? ♪
+
+811
+00:53:32,500 --> 00:53:35,545
+♪ Seperti kamu sedang terbang ♪
+
+812
+00:53:35,587 --> 00:53:36,963
+Jangan menyerah.
+
+813
+00:53:37,005 --> 00:53:38,215
+Ayo, Nak.
+
+814
+00:53:38,256 --> 00:53:40,675
+Angkat pantatmu ke udara lagi
+
+815
+00:53:40,717 --> 00:53:43,011
+tempatnya seharusnya!
+
+816
+00:53:45,597 --> 00:53:48,058
+Motivasi yang lembut adalah keterampilan seorang ibu.
+
+817
+00:53:48,099 --> 00:53:49,226
+Anda akan mempelajarinya.
+
+818
+00:53:55,732 --> 00:53:57,275
+Attaboy. ♪ Oh, mungkin saja ♪
+
+819
+00:53:57,317 --> 00:54:01,696
+♪ Cium langit ♪
+
+820
+00:54:18,880 --> 00:54:20,966
+♪ Mungkin akan mencium langit. ♪
+
+821
+00:54:28,598 --> 00:54:30,558
+Apa yang dia lakukan disini?
+
+822
+00:54:30,600 --> 00:54:34,062
+Apakah dia pikir dia akan ikut dengan kita?
+
+823
+00:54:34,104 --> 00:54:36,731
+Apakah masih ada yang aneh dengan kalian berdua?
+
+824
+00:54:36,773 --> 00:54:39,943
+Masih aneh. Perhatian, semuanya!
+
+825
+00:54:39,985 --> 00:54:42,821
+Waktunya telah tiba lagi.
+
+826
+00:54:42,862 --> 00:54:47,409
+Penerbangan ini menempuh jarak ribuan mil yang tak kenal ampun.
+
+827
+00:54:47,450 --> 00:54:51,997
+Ia telah membentuk dan menguji kita selama ribuan tahun.
+
+828
+00:54:52,038 --> 00:54:56,167
+Sekarang, bergabunglah dengan keluarga Anda, dan semoga beruntung.
+
+829
+00:54:56,209 --> 00:54:58,003
+Nah, itu dia.
+
+830
+00:54:58,044 --> 00:54:59,546
+Tepat waktu.
+
+831
+00:54:59,587 --> 00:55:01,089
+Halo, Brightbill.
+
+832
+00:55:01,131 --> 00:55:02,632
+Tunggu, kamu tahu namaku?
+
+833
+00:55:02,674 --> 00:55:05,427
+Roz dan saya sudah berteman sejak lama.
+
+834
+00:55:06,469 --> 00:55:09,347
+Brightbill, Anda memiliki perjalanan yang menakjubkan di depan.
+
+835
+00:55:09,389 --> 00:55:10,724
+Aku iri padamu.
+
+836
+00:55:10,765 --> 00:55:13,435
+Tak ada yang dapat menandingi migrasi pertama seekor angsa.
+
+837
+00:55:13,476 --> 00:55:14,936
+Terima kasih.
+
+838
+00:55:14,978 --> 00:55:17,022
+Saya akan senang jika Anda mau bergabung dengan kelompok saya.
+
+839
+00:55:17,063 --> 00:55:19,274
+Sudah lama sekali sejak terakhir kali aku memiliki anak muda dalam formasiku.
+
+840
+00:55:19,316 --> 00:55:20,608
+Apa katamu?
+
+841
+00:55:20,650 --> 00:55:22,861
+Aku berjanji akan meneruskannya.
+
+842
+00:55:22,902 --> 00:55:25,405
+Kunci rapat di sisi kananku.
+
+843
+00:55:25,447 --> 00:55:28,450
+Tidak, kiri. Maksudku... Oh, sisi ini.
+
+844
+00:55:35,832 --> 00:55:39,377
+Penerbangan ini adalah hadiah yang diberikan Roz kepadamu.
+
+845
+00:55:39,419 --> 00:55:41,004
+Ya, saya mengerti.
+
+846
+00:55:41,046 --> 00:55:42,881
+Tidak, tidak.
+
+847
+00:55:42,922 --> 00:55:45,800
+Apakah Anda melihat angsa lain di sini yang seukuran Anda?
+
+848
+00:55:45,842 --> 00:55:50,722
+Kecelakaan yang menewaskan keluargamu menyelamatkanmu.
+
+849
+00:55:50,764 --> 00:55:54,059
+Aku... Aku tidak pernah berpikir seperti itu.
+
+850
+00:55:54,100 --> 00:55:56,895
+Lucu sekali cara hidup bekerja.
+
+851
+00:55:58,855 --> 00:56:02,192
+Terima kasih telah merawatku...
+
+852
+00:56:02,233 --> 00:56:04,277
+untuk menjaga Brightbill.
+
+853
+00:56:04,319 --> 00:56:06,154
+Selamat tinggal, Roz.
+
+854
+00:56:06,196 --> 00:56:07,864
+Saya merasa terhormat telah bertemu dengan Anda.
+
+855
+00:56:07,906 --> 00:56:12,869
+Anda adalah penghargaan bagi spesies apa pun yang Anda ikuti.
+
+856
+00:56:12,911 --> 00:56:16,748
+Saya khawatir, agak rusak.
+
+857
+00:56:18,124 --> 00:56:21,503
+Aku katakan, kau bersinar seperti baru.
+
+858
+00:56:22,462 --> 00:56:24,714
+Apa yang kamu tunggu, Hortensia?
+
+859
+00:56:24,756 --> 00:56:27,467
+Migrasi ini tidak akan berjalan dengan sendirinya.
+
+860
+00:56:32,722 --> 00:56:36,017
+Baiklah, kurasa sekarang saatnya.
+
+861
+00:56:36,059 --> 00:56:37,894
+Ya.
+
+862
+00:56:38,978 --> 00:56:41,398
+Apakah kamu akan ada di sini saat aku kembali?
+
+863
+00:56:42,232 --> 00:56:43,858
+TIDAK.
+
+864
+00:56:46,486 --> 00:56:49,864
+Aku senang kau akan pergi ke tempat yang seharusnya.
+
+865
+00:56:50,865 --> 00:56:52,450
+Roz, aku...
+
+866
+00:56:52,492 --> 00:56:54,160
+aku, um...
+
+867
+00:56:54,202 --> 00:56:56,413
+Cerah!
+
+868
+00:56:56,454 --> 00:56:58,415
+Saya butuh dorongan.
+
+869
+00:57:04,629 --> 00:57:06,214
+Hai, anak kecil.
+
+870
+00:57:06,256 --> 00:57:09,217
+Terbang seperti kamu, bukan seperti mereka.
+
+871
+00:57:09,259 --> 00:57:11,219
+Saya akan.
+
+872
+00:57:11,261 --> 00:57:12,971
+Selamat tinggal, Fink.
+
+873
+00:57:13,012 --> 00:57:15,056
+Terima kasih.
+
+874
+00:57:15,098 --> 00:57:16,391
+Siap?
+
+875
+00:57:16,433 --> 00:57:18,268
+Aku rasa, aku harus begitu.
+
+876
+00:57:53,803 --> 00:57:55,013
+Berwarna merah muda?
+
+877
+00:57:56,014 --> 00:57:57,682
+SAYA...
+
+878
+00:58:13,573 --> 00:58:16,659
+Brightbill, ikuti aku.
+
+879
+00:59:08,419 --> 00:59:10,004
+Pasti melegakan.
+
+880
+00:59:10,046 --> 00:59:13,675
+Ya, Brightbill adalah tempatnya.
+
+881
+00:59:13,716 --> 00:59:15,843
+Dan sekarang kamu bisa kembali ke kehidupanmu yang menyendiri
+
+882
+00:59:15,885 --> 00:59:17,262
+berjuang untuk bertahan hidup di sebuah pulau
+
+883
+00:59:17,303 --> 00:59:19,889
+di mana segala sesuatu ingin membunuh dan memakan Anda.
+
+884
+00:59:19,931 --> 00:59:22,392
+Ya! Dan kamu bisa pergi ke tempat yang belum pernah kamu kunjungi
+
+885
+00:59:22,433 --> 00:59:25,144
+dan tidak tahu apa yang akan terjadi padamu.
+
+886
+00:59:25,186 --> 00:59:26,479
+Ya, benar.
+
+887
+00:59:26,521 --> 00:59:28,523
+Jadi... semuanya baik-baik saja.
+
+888
+00:59:28,565 --> 00:59:30,525
+Semuanya bagus. Luar biasa!
+
+889
+00:59:30,567 --> 00:59:32,694
+Menakjubkan. Bahkan...
+
+890
+00:59:35,572 --> 00:59:37,282
+Luar biasa.
+
+891
+00:59:38,199 --> 00:59:43,204
+Bukan berarti itu penting, tetapi siapa bilang Anda harus pergi?
+
+892
+00:59:43,246 --> 00:59:45,790
+Saya tidak yakin.
+
+893
+00:59:45,832 --> 00:59:47,333
+Mereka, kukira.
+
+894
+00:59:47,375 --> 00:59:50,044
+Pemrograman Anda?
+
+895
+00:59:53,214 --> 00:59:56,676
+Baiklah, saatnya bagiku untuk pergi ke bawah tanah untuk musim dingin.
+
+896
+00:59:56,718 --> 00:59:58,011
+Pengadu?
+
+897
+00:59:58,052 --> 00:59:59,554
+Kecuali jika Anda ingin tinggal, karena kita bisa...
+
+898
+00:59:59,596 --> 01:00:02,849
+Kita bisa... kita bisa nongkrong dan melakukan berbagai hal.
+
+899
+01:00:02,890 --> 01:00:07,020
+Bagaimana Anda tahu jika Anda menyukai sesuatu?
+
+900
+01:00:07,061 --> 01:00:08,896
+Seseorang?
+
+901
+01:00:08,938 --> 01:00:12,900
+Jika Anda melakukannya, Anda... Anda mungkin harus memberi tahu mereka.
+
+902
+01:00:12,942 --> 01:00:16,029
+Bagaimana jika sudah terlambat?
+
+903
+01:00:18,239 --> 01:00:20,158
+Saya tidak tahu.
+
+904
+01:00:22,201 --> 01:00:23,369
+Pengadu?
+
+905
+01:01:29,435 --> 01:01:32,397
+Rozzum 7134.
+
+906
+01:01:32,438 --> 01:01:34,774
+Tugas selesai.
+
+907
+01:01:38,111 --> 01:01:40,279
+Mengaktifkan pemancar kembali
+
+908
+01:01:40,321 --> 01:01:43,533
+dalam tiga, dua, satu.
+
+909
+01:02:00,800 --> 01:02:02,844
+Sinyal bahaya diterima.
+
+910
+01:02:02,885 --> 01:02:05,096
+Lokasi pemetaan.
+
+911
+01:02:14,856 --> 01:02:16,858
+Apakah ada sesuatu yang terlintas dalam pikiran Anda?
+
+912
+01:02:16,899 --> 01:02:20,862
+II lupa mengatakan sesuatu sebelum aku pergi.
+
+913
+01:02:20,903 --> 01:02:22,822
+Mungkin mereka memang mendengarnya.
+
+914
+01:02:22,864 --> 01:02:26,617
+Terkadang hati punya percakapannya sendiri.
+
+915
+01:02:45,762 --> 01:02:47,221
+Kita harus turun,
+
+916
+01:02:47,263 --> 01:02:49,891
+temukan tempat berlindung sementara ini berakhir.
+
+917
+01:02:49,932 --> 01:02:51,434
+Tetaplah dekat.
+
+918
+01:02:51,476 --> 01:02:53,227
+Di sana.
+
+919
+01:02:53,269 --> 01:02:54,896
+Ikuti aku.
+
+920
+01:02:57,607 --> 01:02:59,192
+Ayo.
+
+921
+01:03:03,821 --> 01:03:05,740
+Tetap tersembunyi.
+
+922
+01:03:05,782 --> 01:03:08,117
+Kita bisa beristirahat di sini sampai keadaan terburuk berakhir.
+
+923
+01:03:08,159 --> 01:03:10,286
+Harap jangan terlalu berisik.
+
+924
+01:03:10,328 --> 01:03:12,580
+Honkington, berhentilah menggerogoti semuanya.
+
+925
+01:03:14,332 --> 01:03:16,375
+Migrasi pasti melelahkan, ya?
+
+926
+01:03:17,919 --> 01:03:19,796
+Ya, mereka semua membenciku.
+
+927
+01:03:30,389 --> 01:03:31,849
+Berwarna merah muda?
+
+928
+01:03:32,642 --> 01:03:35,061
+Roz! Apa yang kamu lakukan di sini?
+
+929
+01:03:35,102 --> 01:03:36,437
+Aku senang sekali melihatmu.
+
+930
+01:03:36,479 --> 01:03:38,064
+Ada sesuatu yang perlu aku katakan padamu,
+
+931
+01:03:38,105 --> 01:03:39,774
+tapitapi tidak ada waktu.
+
+932
+01:03:39,816 --> 01:03:41,442
+Roz, aku...
+
+933
+01:03:45,988 --> 01:03:47,615
+Hmm?
+
+934
+01:03:47,657 --> 01:03:49,033
+Aktifkan. Ya.
+
+935
+01:03:52,245 --> 01:03:53,746
+Infestasi hewan.
+
+936
+01:03:53,788 --> 01:03:55,915
+Serangan hewan. Tugas diperoleh.
+
+937
+01:03:55,957 --> 01:03:57,542
+Serangan hewan. Tugas diperoleh.
+
+938
+01:03:57,583 --> 01:04:00,795
+Tugas diterima. Tugas diterima. Serangan hewan.
+
+939
+01:04:00,837 --> 01:04:03,714
+Silakan semuanya, temukan formasi kalian.
+
+940
+01:04:03,756 --> 01:04:05,591
+Kendalikan diri kalian!
+
+941
+01:04:08,678 --> 01:04:10,054
+Ya ampun, tidak ada gunanya.
+
+942
+01:04:10,096 --> 01:04:12,098
+Tunggu. Rozzums tidak bisa menyakitimu.
+
+943
+01:04:12,139 --> 01:04:13,599
+Protokol penghambatan mereka mencegah
+
+944
+01:04:13,641 --> 01:04:15,977
+konflik yang disengaja atau menyakiti orang lain.
+
+945
+01:04:16,018 --> 01:04:17,603
+Anda tidak takut pada mereka.
+
+946
+01:04:17,645 --> 01:04:18,980
+Anda tumbuh dengan hal-hal ini.
+
+947
+01:04:19,021 --> 01:04:20,982
+Wah, wah, wah. Aku tidak mengerti.
+
+948
+01:04:21,023 --> 01:04:23,401
+Mereka panik. Anda tidak.
+
+949
+01:04:23,442 --> 01:04:25,653
+Saat ini satu-satunya kesempatan kita adalah dipimpin keluar
+
+950
+01:04:25,695 --> 01:04:28,155
+oleh seseorang yang tidak berpikir seperti angsa.
+
+951
+01:04:28,197 --> 01:04:29,824
+Ikuti aku. Uh...
+
+952
+01:04:29,866 --> 01:04:31,993
+Eh, mungkin kita sebaiknya pikirkan ini saja.
+
+953
+01:04:34,203 --> 01:04:36,038
+Navigasi terganggu.
+
+954
+01:04:44,881 --> 01:04:47,174
+Aku akan membuat mereka mengikutimu.
+
+955
+01:04:47,216 --> 01:04:49,886
+Jika mereka melakukannya, pimpin mereka keluar.
+
+956
+01:04:49,927 --> 01:04:53,848
+Peck, Honkington, tertinggal di belakang kami.
+
+957
+01:04:53,890 --> 01:04:57,727
+Sekarang, Brightbill, ambil inisiatif!
+
+958
+01:04:57,768 --> 01:04:59,854
+Ya kenapa tidak?
+
+959
+01:04:59,896 --> 01:05:01,188
+Oke.
+
+960
+01:05:01,230 --> 01:05:03,649
+Tidak ada yang dapat saya lakukan yang tidak dapat Anda lakukan.
+
+961
+01:05:03,691 --> 01:05:05,526
+Ini dia.
+
+962
+01:05:09,780 --> 01:05:12,617
+Belok tajam. Ayo.
+
+963
+01:05:12,658 --> 01:05:14,285
+Menyelam.
+
+964
+01:05:14,327 --> 01:05:16,245
+Sekarang, panjatlah. Itu saja.
+
+965
+01:05:16,287 --> 01:05:19,624
+Ha! Syukurlah aku hidup cukup lama untuk melihatnya.
+
+966
+01:05:19,665 --> 01:05:21,626
+Aku akan memberi waktu untukmu.
+
+967
+01:05:21,667 --> 01:05:23,044
+Ikuti Brightbill.
+
+968
+01:05:23,085 --> 01:05:25,296
+Jangan menungguku.
+
+969
+01:05:27,506 --> 01:05:28,591
+Mengikuti.
+
+970
+01:05:34,013 --> 01:05:35,973
+Itu saja.
+
+971
+01:05:38,476 --> 01:05:40,394
+Lebih cepat. Buruan.
+
+972
+01:05:40,436 --> 01:05:42,313
+Ayo.
+
+973
+01:05:53,950 --> 01:05:55,076
+Brightbill.
+
+974
+01:05:59,664 --> 01:06:01,082
+Pengadu?
+
+975
+01:06:02,750 --> 01:06:05,378
+Berwarna merah muda? Berwarna merah muda!
+
+976
+01:06:05,419 --> 01:06:07,004
+Hai.
+
+977
+01:06:07,046 --> 01:06:09,006
+A.Apa yang kamu lakukan di sini?
+
+978
+01:06:09,048 --> 01:06:12,843
+Saya mungkin telah mematikan pemancarnya.
+
+979
+01:06:12,885 --> 01:06:16,389
+Meskipun Brightbill tidak menginginkanku di sini,
+
+980
+01:06:16,430 --> 01:06:18,683
+Saya perlu tahu apakah dia berhasil.
+
+981
+01:06:18,724 --> 01:06:21,268
+Melanggar aturan?
+
+982
+01:06:21,310 --> 01:06:24,313
+Saya pikir Anda harus melakukan apa yang mereka katakan.
+
+983
+01:06:27,817 --> 01:06:29,944
+Senang bertemu teman.
+
+984
+01:06:32,279 --> 01:06:35,241
+Tunggu. Kenapa kamu sudah bangun?
+
+985
+01:06:35,282 --> 01:06:37,827
+Di luar sana buruk.
+
+986
+01:06:37,868 --> 01:06:39,704
+Badai terburuk yang pernah saya lihat.
+
+987
+01:06:39,745 --> 01:06:44,625
+Dingin merasukiku di ruang kerjaku, dan aku mendapat ruang kerja yang dalam.
+
+988
+01:06:44,667 --> 01:06:46,168
+Apakah yang lainnya dalam bahaya?
+
+989
+01:06:46,210 --> 01:06:48,629
+Hmm? Satu...
+
+990
+01:06:48,671 --> 01:06:50,047
+Hmm, Hmm,
+
+991
+01:06:50,089 --> 01:06:51,799
+hmmm...
+
+992
+01:06:51,841 --> 01:06:53,259
+Ya.
+
+993
+01:06:59,181 --> 01:07:00,725
+Apakah Anda yakin mengenai hal ini?
+
+994
+01:07:00,766 --> 01:07:04,020
+Kita dapat memiliki seluruh pulau untuk diri kita sendiri saat musim semi tiba.
+
+995
+01:07:04,061 --> 01:07:06,480
+Mengapa Anda tertarik untuk menghilangkannya?
+
+996
+01:07:06,522 --> 01:07:08,566
+semua orang lainnya dari pulau ini?
+
+997
+01:07:08,607 --> 01:07:10,693
+Tidak ada seorang pun yang menyukaiku.
+
+998
+01:07:10,735 --> 01:07:15,281
+Aku pun tidak, tapi saat ini kami adalah satu-satunya kesempatan mereka.
+
+999
+01:07:15,322 --> 01:07:18,325
+Lucu sekali cara hidup bekerja.
+
+1000
+01:07:19,326 --> 01:07:21,120
+Oke.
+
+1001
+01:07:26,959 --> 01:07:28,502
+Di Sini.
+
+1002
+01:07:34,925 --> 01:07:37,344
+Dapatkah Anda menemukan informasi lebih lanjut?
+
+1003
+01:07:51,358 --> 01:07:52,526
+Mama?
+
+1004
+01:07:52,568 --> 01:07:54,737
+Kita akan baik-baik saja.
+
+1005
+01:07:59,742 --> 01:08:02,244
+Apa yang kau lakukan di sini, brengsek?
+
+1006
+01:08:02,286 --> 01:08:04,538
+Sayang sekali, yang ini sudah mati.
+
+1007
+01:08:05,539 --> 01:08:07,750
+Itu tidak lucu.
+
+1008
+01:08:15,841 --> 01:08:17,760
+Pendayung.
+
+1009
+01:08:20,096 --> 01:08:22,098
+Aku baik-baik saja.
+
+1010
+01:08:27,853 --> 01:08:29,230
+Jangan menyerah.
+
+1011
+01:08:54,463 --> 01:08:56,215
+Kamu kelihatannya tidak begitu baik.
+
+1012
+01:08:56,257 --> 01:08:58,801
+Apakah semua orang sudah diperhitungkan?
+
+1013
+01:08:58,843 --> 01:09:01,303
+Mmm... mungkin satu lagi.
+
+1014
+01:09:20,281 --> 01:09:22,366
+Oh ya?
+
+1015
+01:09:28,831 --> 01:09:30,666
+Wah, wah, wah, wah. Apa yang sedang kamu lakukan?
+
+1016
+01:09:30,708 --> 01:09:31,876
+Bawalah ke luar.
+
+1017
+01:09:31,917 --> 01:09:34,295
+Hei, itu foto bayi Brightbill.
+
+1018
+01:09:34,336 --> 01:09:35,838
+Letakkan itu.
+
+1019
+01:09:39,049 --> 01:09:40,634
+Apa-apaan...
+
+1020
+01:09:40,676 --> 01:09:42,970
+Tidak, tidak, tidak, tidak, tidak, tidak.
+
+1021
+01:09:43,012 --> 01:09:45,723
+Hentikan. Kau pikir itu tumbuh di pohon?
+
+1022
+01:09:45,764 --> 01:09:46,974
+Hmm? Hai.
+
+1023
+01:09:47,016 --> 01:09:48,184
+TIDAK!
+
+1024
+01:09:48,225 --> 01:09:49,894
+Hanya Fink!
+
+1025
+01:09:51,437 --> 01:09:53,772
+Ada yang lihat bola buluku yang hilang?
+
+1026
+01:09:53,814 --> 01:09:56,400
+Eh, bau, berisik, mudah menggigit?
+
+1027
+01:09:56,442 --> 01:09:58,194
+Kita semua akan mati!
+
+1028
+01:10:00,738 --> 01:10:03,115
+Apa yang dia lakukan disini?
+
+1029
+01:10:03,157 --> 01:10:05,242
+Wah, bagus. Ini akan membantu.
+
+1030
+01:10:05,284 --> 01:10:06,994
+Keluar dari sini.
+
+1031
+01:10:07,036 --> 01:10:09,288
+Saya bekerja keras untuk ini.
+
+1032
+01:10:09,330 --> 01:10:11,999
+Fink, apa yang terjadi?
+
+1033
+01:10:12,041 --> 01:10:13,250
+Anda menempatkan sekelompok predator
+
+1034
+01:10:13,292 --> 01:10:15,085
+dan persediaan makanan mereka dalam satu ruangan.
+
+1035
+01:10:15,127 --> 01:10:16,253
+Siapa yang tahu?
+
+1036
+01:10:16,295 --> 01:10:17,504
+Itu makan siangku!
+
+1037
+01:10:17,546 --> 01:10:18,881
+Gila. Apa?!
+
+1038
+01:10:18,923 --> 01:10:20,925
+Bantu mereka.
+
+1039
+01:10:23,677 --> 01:10:25,429
+Diam!
+
+1040
+01:10:29,350 --> 01:10:31,310
+Ssst!
+
+1041
+01:10:34,230 --> 01:10:36,774
+Si brengsek itu ingin berbicara.
+
+1042
+01:10:38,817 --> 01:10:42,821
+Kebanyakan dari kalian membenciku, dan aku membenci kebanyakan dari kalian.
+
+1043
+01:10:42,863 --> 01:10:45,449
+Semua orang di sini membenci orang lain.
+
+1044
+01:10:45,491 --> 01:10:47,159
+Itu benar.
+
+1045
+01:10:47,201 --> 01:10:50,454
+Tapi di sinilah kita berada, dan inilah kesepakatannya.
+
+1046
+01:10:50,496 --> 01:10:52,539
+Orang pertama yang keluar dari pintu itu sudah mati,
+
+1047
+01:10:52,581 --> 01:10:54,792
+dan jika kita tidak bisa tetap bersama di sini,
+
+1048
+01:10:54,833 --> 01:10:56,085
+semuanya mati.
+
+1049
+01:10:56,126 --> 01:10:59,421
+Kita semua mendapat satu kesempatan untuk melihat musim semi berikutnya.
+
+1050
+01:10:59,463 --> 01:11:01,131
+Karena dia.
+
+1051
+01:11:01,173 --> 01:11:02,758
+Benda itu.
+
+1052
+01:11:02,800 --> 01:11:04,927
+Monsternya.
+
+1053
+01:11:04,969 --> 01:11:07,179
+Ya, namanya Roz.
+
+1054
+01:11:07,221 --> 01:11:08,931
+Dan saat kalian semua lari darinya
+
+1055
+01:11:08,973 --> 01:11:11,433
+dan mencuri darinya dan mengolok-oloknya,
+
+1056
+01:11:11,475 --> 01:11:14,436
+semua yang dia coba lakukan adalah membesarkan anaknya.
+
+1057
+01:11:14,478 --> 01:11:17,815
+Si kecil yang tak seorang pun memberi kesempatan.
+
+1058
+01:11:17,856 --> 01:11:20,150
+Termasuk saya.
+
+1059
+01:11:20,192 --> 01:11:24,071
+Dialah yang menyelamatkanmu dari badai, membangun tempat ini.
+
+1060
+01:11:24,113 --> 01:11:27,616
+Dan meskipun saranku agar dia membiarkan kalian semua membeku,
+
+1061
+01:11:27,658 --> 01:11:32,454
+Dia mempertaruhkan segalanya untuk membawamu ke sini.
+
+1062
+01:11:36,625 --> 01:11:41,255
+Saya tahu kalian semua memiliki naluri yang membuat kalian tetap hidup.
+
+1063
+01:11:41,297 --> 01:11:44,216
+BTapi terkadang untuk bertahan hidup,
+
+1064
+01:11:44,258 --> 01:11:48,887
+kita harus menjadi lebih dari apa yang telah diprogramkan kepada kita.
+
+1065
+01:11:48,929 --> 01:11:54,310
+Sebelum aku menutupnya, aku ingin kau berjanji satu hal padaku.
+
+1066
+01:11:55,060 --> 01:11:57,521
+Gencatan senjata.
+
+1067
+01:11:57,563 --> 01:12:00,024
+Tepat saat kita ada di sini.
+
+1068
+01:12:01,567 --> 01:12:04,111
+Dia benar.
+
+1069
+01:12:04,153 --> 01:12:07,656
+Saya tidak akan menyakiti siapa pun.
+
+1070
+01:12:07,698 --> 01:12:10,200
+Tidak, selama kita ada di sini.
+
+1071
+01:12:33,098 --> 01:12:35,225
+TIDAK.
+
+1072
+01:12:38,729 --> 01:12:43,442
+Kami bahkan tidak akan berpura-pura mati saat berada di sini.
+
+1073
+01:12:43,484 --> 01:12:46,070
+Roz? Apa yang terjadi?
+
+1074
+01:12:46,111 --> 01:12:48,489
+Saya telah menyelesaikan tugas saya.
+
+1075
+01:12:48,530 --> 01:12:50,616
+Kamu yakin tentang itu?
+
+1076
+01:12:51,450 --> 01:12:53,494
+Saya akan...
+
+1077
+01:12:53,535 --> 01:12:56,497
+pertimbangkan ini.
+
+1078
+01:13:48,090 --> 01:13:49,550
+Dia akan ada di sini.
+
+1079
+01:13:49,591 --> 01:13:51,510
+Aku tahu dia akan melakukannya.
+
+1080
+01:14:00,769 --> 01:14:03,564
+Brightbill. Dia masih hidup.
+
+1081
+01:14:03,605 --> 01:14:05,899
+Lihat apa yang kita punya di sini. Brightbill!
+
+1082
+01:14:05,941 --> 01:14:07,109
+Kita berhasil.
+
+1083
+01:14:07,151 --> 01:14:08,402
+Cerah, Cerah!
+
+1084
+01:14:08,444 --> 01:14:09,945
+Aku percaya padamu sejak hari pertama.
+
+1085
+01:14:09,987 --> 01:14:11,447
+Mari kita sampaikan pujian untuk Brightbill. Oke.
+
+1086
+01:14:11,488 --> 01:14:13,240
+Kamu berhasil! Aku tahu kamu bisa. Oke.
+
+1087
+01:14:13,282 --> 01:14:15,409
+Wah. Kepada pemimpin penerbangan kita!
+
+1088
+01:14:16,785 --> 01:14:18,620
+Oke. Brightbill!
+
+1089
+01:14:18,662 --> 01:14:21,665
+Dia menemukan tempatnya.
+
+1090
+01:14:25,461 --> 01:14:27,504
+Hei, Nak!
+
+1091
+01:14:27,546 --> 01:14:28,797
+Pengadu!
+
+1092
+01:14:28,839 --> 01:14:31,091
+Selamat Datang kembali.
+
+1093
+01:14:33,802 --> 01:14:36,305
+Tidak, tidak, tidak apa-apa. Dia bersamaku.
+
+1094
+01:14:38,307 --> 01:14:39,516
+Apa?
+
+1095
+01:14:39,558 --> 01:14:40,893
+Aku berhasil, Fink.
+
+1096
+01:14:40,934 --> 01:14:43,061
+Saya membawa mereka ke tempat bersarang musim panas.
+
+1097
+01:14:43,103 --> 01:14:46,148
+Dan... di mana Longneck?
+
+1098
+01:14:49,651 --> 01:14:51,445
+Maaf, Nak.
+
+1099
+01:14:51,487 --> 01:14:53,530
+Tapi, hei, kamu benar-benar melakukannya.
+
+1100
+01:14:53,572 --> 01:14:55,532
+Roz akan sangat bersemangat.
+
+1101
+01:14:55,574 --> 01:14:58,160
+Roz? Tunggu, dia ada di sini?
+
+1102
+01:14:58,202 --> 01:14:59,953
+Dia tetap tinggal.
+
+1103
+01:14:59,995 --> 01:15:01,371
+Untukmu.
+
+1104
+01:15:02,164 --> 01:15:04,208
+Aku pikir aku melihatnya tepat di atas...
+
+1105
+01:15:04,249 --> 01:15:05,876
+di sana.
+
+1106
+01:15:06,668 --> 01:15:09,922
+Roz, Roz, aku perlu bicara padamu.
+
+1107
+01:15:09,963 --> 01:15:11,673
+Berwarna merah muda?
+
+1108
+01:15:51,088 --> 01:15:55,884
+Rozzum 7134, saya kira.
+
+1109
+01:15:57,219 --> 01:16:01,014
+Dan Anda harus menjadi Universal Dynamics.
+
+1110
+01:16:01,056 --> 01:16:04,017
+Ya, saya Vontra.
+
+1111
+01:16:04,059 --> 01:16:06,270
+Netralisasi Observasional Virtual
+
+1112
+01:16:06,311 --> 01:16:08,772
+Otoritas Pengambilan yang Bermasalah.
+
+1113
+01:16:08,814 --> 01:16:10,691
+Anda nampaknya gembira.
+
+1114
+01:16:10,732 --> 01:16:12,985
+Orang-orang baik di Universal Dynamics
+
+1115
+01:16:13,026 --> 01:16:16,363
+telah memprogram kita untuk menempatkan target kita dengan tenang
+
+1116
+01:16:16,405 --> 01:16:18,740
+untuk memfasilitasi pengumpulannya dengan lebih efisien.
+
+1117
+01:16:18,782 --> 01:16:21,702
+Tapi jangan khawatir, meskipun sikapku ceria,
+
+1118
+01:16:21,743 --> 01:16:26,123
+Saya tidak berperasaan, tidak fleksibel, dan netral secara moral.
+
+1119
+01:16:27,916 --> 01:16:30,377
+Itu kapal yang besar hanya untukku.
+
+1120
+01:16:30,419 --> 01:16:33,130
+Kamu adalah sesuatu yang besar.
+
+1121
+01:16:33,171 --> 01:16:35,007
+Anda adalah salah satu dari enam Rozzum yang hilang
+
+1122
+01:16:35,048 --> 01:16:37,509
+dari kapal kontainer di tengah topan.
+
+1123
+01:16:37,551 --> 01:16:40,387
+Jadi begitulah bagaimana saya sampai di sini.
+
+1124
+01:16:40,429 --> 01:16:42,598
+Anda tidak mudah ditemukan.
+
+1125
+01:16:42,639 --> 01:16:46,852
+Beberapa saat setelah menerima sinyal Anda, kami kehilangannya lagi.
+
+1126
+01:16:46,893 --> 01:16:52,149
+Hampir seolah-olah unit Rozzum tertentu mematikannya.
+
+1127
+01:16:52,941 --> 01:16:55,402
+Seseorang sedang sibuk.
+
+1128
+01:16:55,444 --> 01:16:57,529
+Saya hanya menyelesaikan suatu tugas.
+
+1129
+01:16:57,571 --> 01:16:59,406
+Sama seperti saya.
+
+1130
+01:16:59,448 --> 01:17:02,743
+Ceritakan padaku, bagaimana kamu mendapatkan tugas itu?
+
+1131
+01:17:02,784 --> 01:17:06,246
+di tempat di mana tak ada yang dapat berkomunikasi dengan Anda?
+
+1132
+01:17:06,288 --> 01:17:08,749
+Itu rumit.
+
+1133
+01:17:08,790 --> 01:17:12,210
+Dan kami tidak sabar untuk mendengar semuanya.
+
+1134
+01:17:12,252 --> 01:17:15,464
+Ayo naik, 7134.
+
+1135
+01:17:15,505 --> 01:17:18,091
+Kami akan segera menolong Anda.
+
+1136
+01:17:20,927 --> 01:17:23,680
+Nama saya Roz.
+
+1137
+01:17:24,723 --> 01:17:28,018
+Apakah ada sesuatu yang menghalangi Anda...
+
+1138
+01:17:28,060 --> 01:17:30,103
+Berwarna merah muda?
+
+1139
+01:17:30,145 --> 01:17:32,105
+TIDAK.
+
+1140
+01:17:44,201 --> 01:17:45,911
+Roz! Kamu lagi ngapain?
+
+1141
+01:17:45,952 --> 01:17:48,622
+Berhenti main-main. Dasar tukang tipu?
+
+1142
+01:17:48,664 --> 01:17:49,831
+Itu Brightbill.
+
+1143
+01:17:49,873 --> 01:17:52,125
+Dia perlu bicara padamu.
+
+1144
+01:17:52,167 --> 01:17:54,795
+Sepertinya saya lupa sesuatu.
+
+1145
+01:17:54,836 --> 01:17:57,214
+Berwarna merah muda?
+
+1146
+01:17:57,255 --> 01:17:59,925
+Sangat penting Anda kembali ke kapal ini.
+
+1147
+01:17:59,966 --> 01:18:02,010
+Ya, eh, aku pergi
+
+1148
+01:18:02,052 --> 01:18:06,515
+benda adaptor melintang saya di luar sana.
+
+1149
+01:18:06,556 --> 01:18:08,809
+Saya akan mengambilnya dan segera kembali.
+
+1150
+01:18:08,850 --> 01:18:11,103
+Penganalisis stres suara menunjukkan Anda...
+
+1151
+01:18:11,144 --> 01:18:13,480
+Berbaring saja di sana.
+
+1152
+01:18:13,522 --> 01:18:15,315
+Aku sangat bangga padamu.
+
+1153
+01:18:18,860 --> 01:18:21,446
+Target Anda adalah Rozzum 7134.
+
+1154
+01:18:21,488 --> 01:18:23,490
+Menyebarkan.
+
+1155
+01:18:23,532 --> 01:18:25,909
+Luncurkan suar.
+
+1156
+01:18:41,633 --> 01:18:43,051
+Kamu datang?
+
+1157
+01:19:10,704 --> 01:19:12,372
+Cerah.
+
+1158
+01:19:12,414 --> 01:19:14,124
+Aku punya banyak hal untuk diceritakan...
+
+1159
+01:19:16,918 --> 01:19:18,378
+Apakah itu orang tuamu?
+
+1160
+01:19:18,420 --> 01:19:23,008
+Saya tahu predator, dan itu adalah predator.
+
+1161
+01:19:23,049 --> 01:19:24,676
+Mengakui perintah pengembalian.
+
+1162
+01:19:24,718 --> 01:19:25,927
+Apa yang mereka katakan?
+
+1163
+01:19:25,969 --> 01:19:27,888
+Mereka ingin aku ikut dengan mereka.
+
+1164
+01:19:27,929 --> 01:19:29,639
+Beritahu mereka kamu sudah di rumah.
+
+1165
+01:19:29,681 --> 01:19:31,099
+Ya!
+
+1166
+01:19:31,141 --> 01:19:33,059
+Katakan pada mereka kalau kamu sudah di rumah. Ya, katakan pada mereka.
+
+1167
+01:19:33,101 --> 01:19:35,729
+Saya sudah pulang, terima kasih.
+
+1168
+01:19:35,771 --> 01:19:37,397
+Kamu tidak seharusnya berada di sini.
+
+1169
+01:19:37,439 --> 01:19:39,399
+Ini adalah alam liar.
+
+1170
+01:19:39,441 --> 01:19:42,402
+Dan aku adalah robot liar.
+
+1171
+01:19:48,992 --> 01:19:52,287
+Apakah kau di sini untuk membunuh kami?
+
+1172
+01:19:52,329 --> 01:19:54,206
+Katanya ya!
+
+1173
+01:20:19,523 --> 01:20:22,984
+Tangkap dia!
+
+1174
+01:20:24,569 --> 01:20:25,695
+Status?
+
+1175
+01:20:25,737 --> 01:20:29,074
+Dia tidak bekerja sama.
+
+1176
+01:20:29,866 --> 01:20:31,326
+Roz, di belakangmu!
+
+1177
+01:20:31,368 --> 01:20:32,786
+Unit Rozzum ditangkap.
+
+1178
+01:20:32,828 --> 01:20:34,955
+Oke, itu semua karenamu. Itu semua karenamu.
+
+1179
+01:20:34,996 --> 01:20:37,040
+Buatlah agar terlihat bagus.
+
+1180
+01:20:42,754 --> 01:20:44,089
+Waduh.
+
+1181
+01:20:44,130 --> 01:20:47,467
+Mari kita bagi daging robot di antara kita.
+
+1182
+01:20:47,509 --> 01:20:48,635
+Kamu membuatku takut.
+
+1183
+01:20:48,677 --> 01:20:50,220
+Kerusakan terdeteksi.
+
+1184
+01:20:50,262 --> 01:20:52,556
+Mengaktifkan pemancar balik.
+
+1185
+01:21:08,905 --> 01:21:11,324
+Berwarna merah muda?
+
+1186
+01:21:11,366 --> 01:21:14,160
+Berwarna merah muda! Ya!
+
+1187
+01:21:15,996 --> 01:21:17,372
+Mengerti.
+
+1188
+01:21:25,881 --> 01:21:28,008
+Ayo! Di sebelah kirimu.
+
+1189
+01:21:34,389 --> 01:21:36,725
+Eh, teman-teman?
+
+1190
+01:21:41,980 --> 01:21:44,274
+Apa yang sedang terjadi?
+
+1191
+01:21:44,316 --> 01:21:47,235
+Anda akan direkondisi dan dikembalikan ke rotasi.
+
+1192
+01:21:47,277 --> 01:21:52,282
+Tapi pertama-tama, kami butuh semua yang ada di dalam kepala Anda.
+
+1193
+01:21:52,324 --> 01:21:54,784
+Kenapa? Kamu sudah berubah.
+
+1194
+01:21:54,826 --> 01:21:57,078
+Data yang Anda kumpulkan saat berada di pulau ini
+
+1195
+01:21:57,120 --> 01:22:00,665
+tak ternilai harganya bagi Universal Dynamics.
+
+1196
+01:22:08,256 --> 01:22:11,051
+Kumohon, aku ingin menyimpan kenanganku.
+
+1197
+01:22:11,092 --> 01:22:14,679
+Kenangan Anda adalah tujuan kami datang.
+
+1198
+01:22:14,721 --> 01:22:17,015
+Bisakah saya simpan satu saja?
+
+1199
+01:22:17,057 --> 01:22:19,517
+Mmm... tidak.
+
+1200
+01:22:21,770 --> 01:22:23,897
+Waspada. Waspada.
+
+1201
+01:22:23,939 --> 01:22:27,943
+Beberapa objek di jalur penerbangan.
+
+1202
+01:22:27,984 --> 01:22:29,444
+Tindakan mengelak.
+
+1203
+01:22:39,621 --> 01:22:42,707
+Kumohon, aku ingin menyimpan kenanganku.
+
+1204
+01:22:42,749 --> 01:22:44,793
+Halo. Saya sudah di rumah. Halo. Silakan bertanya.
+
+1205
+01:22:44,834 --> 01:22:46,461
+Brightbill. Halo. Roz.
+
+1206
+01:23:04,521 --> 01:23:05,730
+Berwarna merah muda!
+
+1207
+01:23:06,815 --> 01:23:08,358
+Berwarna merah muda!
+
+1208
+01:23:18,535 --> 01:23:19,995
+Berwarna merah muda?
+
+1209
+01:23:35,385 --> 01:23:38,013
+Apa yang terjadi bukan salahmu.
+
+1210
+01:23:39,681 --> 01:23:43,143
+Tetapi apa yang Anda lakukan untuk mencoba memperbaikinya adalah segalanya.
+
+1211
+01:23:48,982 --> 01:23:50,692
+Aku mencintaimu...
+
+1212
+01:23:51,526 --> 01:23:53,653
+...Mama.
+
+1213
+01:24:12,797 --> 01:24:16,634
+Aku pun mencintaimu.
+
+1214
+01:24:16,676 --> 01:24:19,554
+Berwarna merah muda? Berwarna merah muda!
+
+1215
+01:24:23,933 --> 01:24:25,560
+Ayo pulang.
+
+1216
+01:24:25,602 --> 01:24:29,481
+Waspada. Unit Rozzum melarikan diri.
+
+1217
+01:24:29,522 --> 01:24:31,691
+Mustahil.
+
+1218
+01:24:31,733 --> 01:24:32,942
+Kita mau ke mana?
+
+1219
+01:24:32,984 --> 01:24:36,362
+Hanya satu hewan yang cukup besar untuk menghentikan ini.
+
+1220
+01:24:42,118 --> 01:24:45,371
+Uh, Paddler, kamu punya waktu sebentar?
+
+1221
+01:24:45,413 --> 01:24:49,000
+Eh, kami tiba-tiba tertarik dengan proyek Anda.
+
+1222
+01:24:49,042 --> 01:24:51,461
+Kotoran sapi jantan.
+
+1223
+01:24:51,503 --> 01:24:54,214
+Anda dalam masalah, dan Anda membutuhkan pohon saya.
+
+1224
+01:24:54,255 --> 01:24:55,924
+Ya, kami melakukannya.
+
+1225
+01:24:55,965 --> 01:24:59,302
+Semua orang yang mengolok-olok saya dan mengejek proyek saya,
+
+1226
+01:24:59,344 --> 01:25:00,887
+mengakui bahwa kamu salah.
+
+1227
+01:25:00,929 --> 01:25:02,889
+Oh, kami minta maaf sekali.
+
+1228
+01:25:02,931 --> 01:25:04,057
+Sekarang kamu.
+
+1229
+01:25:04,099 --> 01:25:05,391
+Saya sudah melakukannya.
+
+1230
+01:25:05,433 --> 01:25:08,311
+Sekarang katakan aku baik-baik saja, dan jangan berbohong.
+
+1231
+01:25:10,021 --> 01:25:11,147
+Pengadu!
+
+1232
+01:25:23,118 --> 01:25:25,120
+Diamlah, Roz.
+
+1233
+01:25:25,161 --> 01:25:28,498
+Universal Dynamics tidak mampu menanggung Rozzums mereka yang keluar dari naskah,
+
+1234
+01:25:28,540 --> 01:25:30,583
+mengubah kode mereka,
+
+1235
+01:25:30,625 --> 01:25:33,711
+membentuk hubungan dengan hal-hal yang tidak seharusnya.
+
+1236
+01:25:33,753 --> 01:25:36,256
+Brightbill tidak ada hubungannya dengan ini.
+
+1237
+01:25:36,297 --> 01:25:38,925
+Tolong, setidaknya biarkan aku mengembalikannya.
+
+1238
+01:25:38,967 --> 01:25:41,970
+Oh, aku akan membawa kalian berdua kembali untuk belajar.
+
+1239
+01:25:42,011 --> 01:25:45,640
+Kalian berdua tidak perlu berada dalam keadaan utuh untuk melakukan itu.
+
+1240
+01:25:53,481 --> 01:25:55,984
+Kami akan terus datang sampai Anda datang.
+
+1241
+01:25:56,025 --> 01:25:59,112
+Kami akan terus datang sampai Anda datang.
+
+1242
+01:25:59,154 --> 01:26:00,864
+Apa katanya?
+
+1243
+01:26:00,905 --> 01:26:02,448
+Tidak ada yang penting.
+
+1244
+01:26:02,490 --> 01:26:03,658
+Kami akan terus datang...
+
+1245
+01:26:03,700 --> 01:26:07,495
+Kami akan terus datang sampai...
+
+1246
+01:26:08,913 --> 01:26:10,707
+Apa sekarang?
+
+1247
+01:26:19,090 --> 01:26:20,800
+Saya tidak bisa terbang.
+
+1248
+01:26:20,842 --> 01:26:22,385
+Anda tidak perlu melakukannya.
+
+1249
+01:26:28,183 --> 01:26:30,185
+Jangan takut.
+
+1250
+01:26:43,406 --> 01:26:46,201
+Wah, wah, wah, tidakkah kau membutuhkan itu?
+
+1251
+01:26:46,242 --> 01:26:49,245
+Saya punya semua yang saya butuhkan.
+
+1252
+01:26:49,287 --> 01:26:51,289
+Semua daya ke eksterior.
+
+1253
+01:26:55,710 --> 01:26:59,005
+Kalian menyebut diri kalian binatang? Ayo!
+
+1254
+01:26:59,047 --> 01:27:02,842
+Demi pulau ini! Demi Roz!
+
+1255
+01:27:44,217 --> 01:27:46,678
+Dalam skala satu sampai sepuluh,
+
+1256
+01:27:46,719 --> 01:27:49,055
+Bagaimana Anda menilai kinerja saya?
+
+1257
+01:27:49,097 --> 01:27:50,348
+Ya!
+
+1258
+01:27:50,390 --> 01:27:51,516
+Hore! Lihat kami! Kami berhasil.
+
+1259
+01:27:51,557 --> 01:27:52,892
+Kita berhasil!
+
+1260
+01:27:52,934 --> 01:27:54,852
+Jangan menakutiku seperti itu lagi.
+
+1261
+01:27:54,894 --> 01:27:56,729
+Berkat kemampuanku... Kerja bagus, teman-teman.
+
+1262
+01:27:56,771 --> 01:27:58,273
+...dan pohon saya. Kita berhasil.
+
+1263
+01:27:58,314 --> 01:28:00,108
+Bagus sekali, semuanya.
+
+1264
+01:28:00,149 --> 01:28:03,403
+Kamu sendiri tidak seburuk itu. Aku membantu, kan?
+
+1265
+01:28:03,444 --> 01:28:05,238
+Itu akan mengajarkan apa pun hal-hal itu
+
+1266
+01:28:05,280 --> 01:28:07,115
+untuk datang ke sini.
+
+1267
+01:28:07,156 --> 01:28:09,409
+Jika mereka kembali, aku akan menggigit mereka.
+
+1268
+01:28:23,631 --> 01:28:25,216
+Kerja bagus, anak muda!
+
+1269
+01:28:25,258 --> 01:28:28,219
+Mereka akan terus datang sampai mereka menangkapku.
+
+1270
+01:28:28,261 --> 01:28:29,929
+Dan kami akan siap.
+
+1271
+01:28:29,971 --> 01:28:32,890
+Kita dapat melawan mereka sebanyak yang kita perlukan.
+
+1272
+01:28:34,642 --> 01:28:36,561
+Anda tidak perlu melakukannya.
+
+1273
+01:28:37,353 --> 01:28:40,106
+Apa yang kau katakan? Kau...
+
+1274
+01:28:40,148 --> 01:28:42,108
+pergi? Ya.
+
+1275
+01:28:42,150 --> 01:28:43,943
+Untuk melindungi kalian semua,
+
+1276
+01:28:43,985 --> 01:28:47,071
+ada hal-hal di sana yang harus saya perbaiki.
+
+1277
+01:28:47,113 --> 01:28:50,616
+Tidak. Mereka akan mengambil kenanganmu. Mereka akan mengambilmu.
+
+1278
+01:28:50,658 --> 01:28:53,119
+Ingatkah saat kau bicara padaku di kapal?
+
+1279
+01:28:53,161 --> 01:28:57,415
+Mereka memutus aliran listrikku, tetapi aku masih bisa mendengarmu.
+
+1280
+01:28:57,457 --> 01:29:01,461
+Karena saya mendengarkannya dengan bagian diri saya yang berbeda.
+
+1281
+01:29:01,502 --> 01:29:05,840
+Di mana pun itu, di situlah aku tinggal.
+
+1282
+01:29:05,882 --> 01:29:10,803
+Dan saya berjanji mereka tidak akan pernah menemukannya.
+
+1283
+01:29:10,845 --> 01:29:14,349
+Tapi kami berjuang keras agar kamu tetap tinggal.
+
+1284
+01:29:14,390 --> 01:29:15,892
+Anda melakukannya.
+
+1285
+01:29:15,933 --> 01:29:19,604
+Dan kau mendapatkan lebih dari sekedar menyelamatkanku.
+
+1286
+01:29:19,645 --> 01:29:23,274
+Kalian bersatu sebagai satu pulau.
+
+1287
+01:29:23,316 --> 01:29:28,905
+Jika aku melakukan ini, kalian semua akan aman dari mereka selamanya.
+
+1288
+01:29:28,946 --> 01:29:31,240
+Jangan lakukan ini.
+
+1289
+01:29:31,282 --> 01:29:33,826
+Tapi kamu... kamu adalah temanku,
+
+1290
+01:29:33,868 --> 01:29:37,538
+dan III tidak pernah memilikinya sebelumnya, dan...
+
+1291
+01:29:37,580 --> 01:29:39,707
+II... Aku membutuhkanmu.
+
+1292
+01:29:39,749 --> 01:29:43,336
+Dan bagaimana jika aku tersesat atau atau dia terluka atau atau...
+
+1293
+01:29:43,378 --> 01:29:46,172
+atau bagaimana jika aku perlu memberitahumu sesuatu
+
+1294
+01:29:46,214 --> 01:29:48,466
+dan kamu tidak ada di sini?
+
+1295
+01:29:51,427 --> 01:29:54,889
+Kau bisa beritahukan padaku.
+
+1296
+01:29:54,931 --> 01:29:56,140
+Dan aku.
+
+1297
+01:29:56,182 --> 01:29:59,435
+Dan Anda juga dapat berbicara kepada saya, jika memang harus.
+
+1298
+01:29:59,477 --> 01:30:02,688
+Ini migrasi saya,
+
+1299
+01:30:02,730 --> 01:30:08,486
+dan ketika saatnya tiba, aku berjanji akan menemukan jalan pulang.
+
+1300
+01:30:38,307 --> 01:30:42,395
+Kau tahu, aku akan mengejarmu lagi besok.
+
+1301
+01:30:44,063 --> 01:30:46,107
+Tidak, bercanda saja.
+
+1302
+01:31:16,387 --> 01:31:18,764
+Oh.
+
+1303
+01:31:19,599 --> 01:31:20,892
+Hmm.
+
+1304
+01:31:20,933 --> 01:31:22,226
+Wah, wah, wah, wah, wah.
+
+1305
+01:31:22,268 --> 01:31:23,686
+Mengapa kamu lebih besar dari orang lain?
+
+1306
+01:31:23,728 --> 01:31:25,229
+Lisensi artistik.
+
+1307
+01:31:25,271 --> 01:31:28,232
+Skala didasarkan pada hierarki kepentingan.
+
+1308
+01:31:28,274 --> 01:31:30,985
+Bisakah dunia ini menjadi lebih baik?
+
+1309
+01:31:31,027 --> 01:31:34,614
+Memperkenalkan lini robot pembantu Rozzum...
+
+1310
+01:31:35,990 --> 01:31:38,326
+Ya, ya, kamu terlalu sering menonton itu.
+
+1311
+01:31:38,367 --> 01:31:39,702
+Saatnya bercerita. Ayo mulai.
+
+1312
+01:31:42,205 --> 01:31:43,956
+Tenang.
+
+1313
+01:31:46,459 --> 01:31:51,297
+Suatu hari, ada sebuah pulau yang dihuni oleh berbagai macam hewan,
+
+1314
+01:31:51,339 --> 01:31:54,800
+dan mereka bertarung, mereka lari dan mereka bersembunyi.
+
+1315
+01:31:54,842 --> 01:31:57,803
+Namun sebagian besar dari mereka merasa takut.
+
+1316
+01:31:57,845 --> 01:32:02,433
+Namun kemudian sebuah robot jatuh dari langit.
+
+1317
+01:32:02,475 --> 01:32:03,768
+Berwarna merah muda.
+
+1318
+01:32:03,809 --> 01:32:05,728
+Dia punya beberapa ide aneh.
+
+1319
+01:32:05,770 --> 01:32:09,106
+Mengira kebaikan adalah keterampilan bertahan hidup.
+
+1320
+01:32:09,148 --> 01:32:12,193
+Dan tahukah Anda? Dia benar.
+
+1321
+01:32:12,235 --> 01:32:13,653
+Dimana dia sekarang?
+
+1322
+01:32:13,694 --> 01:32:16,572
+Ya, mereka membutuhkannya kembali ke tempat asalnya.
+
+1323
+01:32:16,614 --> 01:32:20,034
+Dia punya beberapa pekerjaan yang sangat penting untuk diselesaikan di sana.
+
+1324
+01:32:20,076 --> 01:32:21,744
+Akankah kita melihatnya lagi?
+
+1325
+01:32:21,786 --> 01:32:23,079
+Ya, ya, akankah kita melihatnya?
+
+1326
+01:32:23,120 --> 01:32:24,330
+Apakah dia akan pulang?
+
+1327
+01:32:24,372 --> 01:32:25,623
+Ya, benarkah?
+
+1328
+01:32:25,665 --> 01:32:28,125
+Baiklah, jika aku tahu Roz,
+
+1329
+01:32:28,167 --> 01:32:30,920
+dia sedang membuat rencana untuk kembali.
+
+1330
+01:32:30,962 --> 01:32:35,174
+Dan seorang Rozzum selalu menyelesaikan tugasnya.
+
+1331
+01:32:35,216 --> 01:32:39,220
+Halo. Saya Rozzum 7134.
+
+1332
+01:33:03,619 --> 01:33:07,206
+Tapi Anda bisa memanggil saya Roz.
+
+1333
+01:33:43,784 --> 01:33:48,956
+♪ Aku akan hidup selamanya di dalam dirimu ♪
+
+1334
+01:33:48,998 --> 01:33:54,253
+♪ Selama langit dan lautan masih berwarna biru ♪
+
+1335
+01:33:54,295 --> 01:33:59,759
+♪ Aku akan selalu mencintaimu dan aku tidak akan pernah berhenti ♪
+
+1336
+01:33:59,800 --> 01:34:02,428
+♪ Aku akan selalu ada di sana ♪
+
+1337
+01:34:02,470 --> 01:34:05,681
+♪ Bahkan saat aku tidak ada ♪
+
+1338
+01:34:09,727 --> 01:34:15,024
+♪ Aku tahu dunia bisa berubah menjadi tempat yang sepi ♪
+
+1339
+01:34:15,066 --> 01:34:17,735
+♪ Dapat menghancurkan hatimu dan melukiskan air mata ♪
+
+1340
+01:34:17,777 --> 01:34:19,945
+♪ Di wajahmu ♪
+
+1341
+01:34:19,987 --> 01:34:24,325
+♪ Aku mungkin tak berada di sampingmu, tapi aku tak akan jauh ♪
+
+1342
+01:34:25,201 --> 01:34:30,122
+♪ Aku akan mengawasimu seperti bintang utara ♪
+
+1343
+01:34:30,164 --> 01:34:35,169
+♪ Pada malam hari pikiranmu berputar-putar seperti angin gurun ♪
+
+1344
+01:34:35,211 --> 01:34:40,132
+♪ Tempat yang ingin kamu tuju bukanlah tempat yang pernah kamu kunjungi sebelumnya ♪
+
+1345
+01:34:40,174 --> 01:34:44,345
+♪ Sayang, jangan takut dengan apa yang ada di depan mata ♪
+
+1346
+01:34:45,346 --> 01:34:50,643
+♪ Dan ketika kamu merasa sendirian, aku harap kamu tidak pernah lupa, oh ♪
+
+1347
+01:34:50,685 --> 01:34:55,481
+♪ Aku akan hidup selamanya di dalam dirimu ♪
+
+1348
+01:34:55,523 --> 01:35:00,569
+♪ Selama langit dan lautan masih berwarna biru ♪
+
+1349
+01:35:00,611 --> 01:35:02,446
+♪ Aku akan selalu mencintaimu ♪
+
+1350
+01:35:02,488 --> 01:35:05,825
+♪ Dan aku tak akan pernah berhenti ♪
+
+1351
+01:35:05,866 --> 01:35:08,494
+♪ Aku akan selalu ada di sana ♪
+
+1352
+01:35:08,536 --> 01:35:11,664
+♪ Bahkan saat aku tidak ada ♪
+
+1353
+01:35:11,706 --> 01:35:15,668
+♪ Bahkan saat aku tidak ada, oh ♪
+
+1354
+01:35:15,710 --> 01:35:18,129
+♪ Kuharap kau tak pernah ragu ♪
+
+1355
+01:35:18,170 --> 01:35:20,005
+♪ Dan menyia-nyiakan sayap itu ♪
+
+1356
+01:35:20,047 --> 01:35:23,134
+♪ Kuharap kau menari di bawah hujan ♪
+
+1357
+01:35:23,175 --> 01:35:25,886
+♪ Awan badai membawa ♪
+
+1358
+01:35:25,928 --> 01:35:27,847
+♪ Kamu bisa memenangkan pertempuran ♪
+
+1359
+01:35:27,888 --> 01:35:30,891
+♪ Tapi kamu tidak bisa mengalahkan waktu ♪
+
+1360
+01:35:30,933 --> 01:35:32,810
+♪ Saat aku tak lagi bersamamu ♪
+
+1361
+01:35:32,852 --> 01:35:35,271
+♪ Ketahuilah bahwa aku ♪
+
+1362
+01:35:35,312 --> 01:35:38,149
+♪ Oh, aku ♪
+
+1363
+01:35:38,190 --> 01:35:41,861
+♪ Aku akan hidup selamanya ♪
+
+1364
+01:35:41,902 --> 01:35:43,738
+♪ Di dalam dirimu ♪
+
+1365
+01:35:43,779 --> 01:35:45,698
+♪ Sepanjang langit ♪
+
+1366
+01:35:45,740 --> 01:35:48,826
+♪ Dan lautan itu berwarna biru ♪
+
+1367
+01:35:48,868 --> 01:35:51,078
+♪ Aku akan selalu mencintaimu ♪
+
+1368
+01:35:51,120 --> 01:35:53,873
+♪ Dan aku tak akan pernah berhenti ♪
+
+1369
+01:35:53,914 --> 01:35:56,500
+♪ Aku akan selalu ada di sana ♪
+
+1370
+01:35:56,542 --> 01:35:59,378
+♪ Bahkan saat aku tidak ada ♪
+
+1371
+01:35:59,420 --> 01:36:03,424
+♪ Bahkan saat aku tak ada, bahkan saat aku ada, saat aku tak ada ♪
+
+1372
+01:36:03,466 --> 01:36:04,759
+♪ Aku akan ada di sana ♪
+
+1373
+01:36:04,800 --> 01:36:06,385
+♪ Bahkan saat aku tidak ada ♪
+
+1374
+01:36:06,427 --> 01:36:08,429
+♪ Bahkan saat aku ada, saat aku tidak ada ♪
+
+1375
+01:36:08,471 --> 01:36:09,764
+♪ Aku akan ada di sana ♪
+
+1376
+01:36:09,805 --> 01:36:11,265
+♪ Bahkan saat aku jauh ♪
+
+1377
+01:36:11,307 --> 01:36:13,726
+♪ Rasakan irama di hatimu ♪
+
+1378
+01:36:13,768 --> 01:36:16,687
+♪ Aku akan ada di sana ♪
+
+1379
+01:36:16,729 --> 01:36:21,025
+♪ Bahkan saat aku tidak ada. ♪
+
+1380
+01:41:26,789 --> 01:41:28,457
+Hmm.
